@@ -8,19 +8,9 @@ language: "en"
 
 # 10 - Hidden Insights and Non-Obvious Factors
 
-## Sources
-- [Thoughtworks: Service-as-software: A new economic model for age of AI agents](https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents)
-- [Obsidian Security: Top AI Agent Security Risks and How to Mitigate Them](https://www.obsidiansecurity.com/blog/ai-agent-security-risks)
-- [Insight: The Truth About AI Agent Risks And What To Do About Them](https://www.insight.com/en_US/content-and-resources/blog/the-truth-about-ai-agent-risks-and-what-to-do-about-them.html)
-- [Cognizant: AI in Customer Service: Navigating the Pitfalls](https://www.cognizant.com/uk/en/insights/blog/articles/ai-in-customer-service-navigating-the-pitfalls)
-- [Inbenta: Top 5 pitfalls when scaling enterprise AI agents (and how to avoid ...](https://www.inbenta.com/articles/top-5-pitfalls-when-scaling-enterprise-ai-agents-and-how-to-avoid-them))
-- [CapTech Consulting: Navigating the Challenges: 5 Common Pitfalls in Agentic AI Adoption](https://www.captechconsulting.com/articles/navigating-the-challenges-5-common-pitfalls-in-agentic-ai-adoption)
-- [Decibel VC: From Founder Catalyst: Service-as-Software, powered by AI ...](https://www.decibel.vc/articles/service-as-software-powered-by-ai-agents)
-- [Thoughtful AI: Service as Software: The Biggest Secret in AI for Entrepreneurs](https://www.thoughtful.ai/blog/service-as-software)
-- [Nates Newsletter: Software 3.0 vs AI Agentic Mesh: Why McKinsey Got It Wrong](https://natesnewsletter.substack.com/p/software-30-vs-ai-agentic-mesh-why)
+> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
-
 Many aspects of Service-As-Software are not immediately obvious but critically important for success. These hidden insights can determine the difference between thriving and failing in this emerging market.
 
 ```

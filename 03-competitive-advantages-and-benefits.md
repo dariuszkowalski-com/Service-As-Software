@@ -8,13 +8,7 @@ language: "en"
 
 # 03 - Competitive Advantages and Benefits
 
-## Sources
-- [Thoughtworks: Service-as-software: A new economic model for age of AI agents](https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents)
-- [Foundation Capital: AI leads a service as software paradigm shift](https://foundationcapital.com/ai-service-as-software/)
-- [SmarterTech: Service as Software (SaS: The AI Model Replacing SaaS)](https://www.smartertech.com/articles/service-as-software)
-- [Madrona: Service as Software: The Foundation of Outcome Delivery in Applied AI](https://www.madrona.com/service-as-software-the-foundation-of-outcome-delivery-in-applied-ai/)
-- [Kellton: Beyond Software: The Rise of Service-as-a-Software (The New SaaS)](https://www.kellton.com/kellton-tech-blog/service-as-a-software)
-- [Falk Gottlob: The Shift from SaaS to Service-as-Software](https://medium.com/@falkgottlob/the-shift-from-saas-to-service-as-software-building-systems-of-work-for-an-ai-driven-future-33f81e4b8b09)
+> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
 
 ## Why Service-As-Software Creates Competitive Advantage
 

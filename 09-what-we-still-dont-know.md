@@ -8,13 +8,7 @@ language: "en"
 
 # 09 - What We Still Don't Know
 
-## Sources
-- [Thoughtworks: Service-as-software: A new economic model for age of AI agents](https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents)
-- [Foundation Capital: When model providers eat everything: A survival guide for 'service ...'](https://foundationcapital.com/when-model-providers-eat-everything-a-survival-guide-for-service-as-software-startups/)
-- [Obsidian Security: Top AI Agent Security Risks and How to Mitigate Them](https://www.obsidiansecurity.com/blog/ai-agent-security-risks)
-- [Insight: The Truth About AI Agent Risks And What To Do About Them](https://www.insight.com/en_US/content-and-resources/blog/the-truth-about-ai-agent-risks-and-what-to-do-about-them.html)
-- [UX Tigers: Service as a Software: The New SaaS](https://www.uxtigers.com/post/service-as-software)
-- [CapTech Consulting: Navigating the Challenges: 5 Common Pitfalls in Agentic AI Adoption](https://www.captechconsulting.com/articles/navigating-the-challenges-5-common-pitfalls-in-agentic-ai-adoption)
+> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 

@@ -8,14 +8,7 @@ language: "en"
 
 # 11 - Recommendations for Entrepreneurs
 
-## Sources
-- [Thoughtworks: Service-as-software: A new economic model for age of AI agents](https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents)
-- [Foundation Capital: When model providers eat everything: A survival guide for 'service ...'](https://foundationcapital.com/when-model-providers-eat-everything-a-survival-guide-for-service-as-software-startups/)
-- [Decibel VC: From Founder Catalyst: Service-as-Software, powered by AI ...](https://www.decibel.vc/articles/service-as-software-powered-by-ai-agents)
-- [SmarterTech: Service as Software (SaS: The AI Model Replacing SaaS)](https://www.smartertech.com/articles/service-as-software)
-- [Thoughtful AI: Service as Software: The Biggest Secret in AI for Entrepreneurs](https://www.thoughtful.ai/blog/service-as-software)
-- [LinkedIn: The Rise of Service-as-a-Software](https://www.linkedin.com/pulse/rise-service-as-a-software-software-works-you-richard-kerby-tzuic)
-- [McKinsey: Unlocking the value of AI in software development](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/unlocking-the-value-of-ai-in-software-development)
+> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 

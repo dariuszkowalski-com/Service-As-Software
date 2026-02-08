@@ -6,17 +6,12 @@ researcher: "Forge AI Assistant"
 language: "en"
 ---
 
+
 # 15 - Data, Analytics & ML Perspective: Service-As-Software
 
-## Sources
+> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
 
-### Data Strategy & CDO Role
-- [Chief Data Officer survey 2025 | Deloitte UK](https://www.deloitte.com/nl/en/services/consulting-risk/research/chief-data-officer-survey-2025.html)
-- [What Is a Chief Data Officer (CDO)? - IBM](https://www.ibm.com/think/topics/chief-data-officer)
-- [Top 5 Chief Data Officer (CDO) Responsibilities for 2026 - Actian](https://www.actian.com/chief-data-officer-responsibilities/)
-- [The chief data officer (CDO) - AI, Data & Analytics Network](https://www.aidataanalytics.network/data-science-ai/articles/the-chief-data-officer-whats-next-in-2025)
-- [The Evolving Role of CDO: 4 Skills Every CDO Must Develop](https://www.tamr.com/blog/the-evolving-role-of-the-cdo-4-skills-every-cdo-must-develop)
-- [The Rise of Chief Data Officer (CDO): What Do They Actually Do?](https://www.betsol.com/blog/the-role-of-the-chief-data-officer-cdo/)
+## Overview
 
 ### MLOps & LLMOps
 - [The Complete MLOps/LLMOps Roadmap for 2026 - Medium](https://medium.com/@sanjeebmeister/the-complete-mlops-llmops-roadmap-for-2026-building-production-grade-ai-systems-bdcca5ed2771)

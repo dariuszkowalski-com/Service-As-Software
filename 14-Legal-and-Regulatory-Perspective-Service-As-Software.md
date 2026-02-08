@@ -6,19 +6,12 @@ researcher: "Forge AI Assistant"
 language: "en"
 ---
 
+
 # 14 - Legal and Regulatory Perspective: Service-As-Software
 
-## Sources
+> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
 
-### EU Sources
-- [EU AI Act Service Desk - Timeline](https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act)
-- [EU AI Act - Artificial Intelligence Act](https://artificialintelligenceact.eu/)
-- [EU Digital Strategy - NIS2 Directive](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive)
-- [European Data Protection Board - Automated Decision Making](https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/automated-decision-making-and-profiling_en)
-- [Digital Services Act](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act)
-
-### US Sources
-- [Colorado AI Act - SB24-205](https://leg.colorado.gov/bills/sb24-205)
+## Overview
 
 ### International Sources
 - [AI Regulations Global Tracker](https://www.anecdotes.ai/learn/ai-regulations-in-2025-us-eu-uk-japan-china-and-more)

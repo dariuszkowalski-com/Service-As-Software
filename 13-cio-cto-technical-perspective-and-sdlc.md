@@ -8,17 +8,9 @@ language: "en"
 
 # 13 - CIO/CTO Technical Perspective and SDLC
 
-## Sources
+>**Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
 
-### Technical Research
-- [The Complete Guide to Fine-Tuning LLMs and SLMs in 2025](https://medium.com/@nraman.n6/the-complete-guide-to-fine-tuning-llms-and-slms-in-2025-75087978fc6e)
-- [Production RAG Architecture That Scales: Vector Databases, Chunking Strategies, and Cost Optimization for 2025](https://brlikhon.engineer/blog/production-rag-architecture-that-scales-vector-databases-chunking-strategies-and-cost-optimization-for-2025)
-- [Top Vector Databases for Enterprise AI in 2025 - Medium](https://medium.com/@balarampanda.ai/top-vector-databases-for-enterprise-ai-in-2025-complete-selection-guide-39c58cc74c3f)
-- [AI Agent Behavioral Validation Testing Playbook - Galileo AI](https://galileo.ai/learn/ai-observability/ai-agent-testing-behavioral-validation)
-- [The Rise Of The Agentic SDLC: How AI Agents Are Redefining Software Development](https://www.forbes.com/councils/forbestechcouncil/2025/11/10/the-rise-of-the-agentic-sdlc-how-ai-agents-are-redefining-software-development)
-- [AI-First SDLC: The Future of Software Development](https://medium.com/@tahir.saeed_46137/ai-first-sdlc-the-future-of-software-development-40e9e21e60e9)
-- [The Agent Development Life Cycle - Sierra AI](https://sierra.ai/blog/agent-development-life-cycle)
-- [5 AI Truths — Reshaping Quality Assurance in 2025](https://medium.com/@connecttokc/5-ai-truths-reshaping-quality-assurance-in-2025-886c7e31da29)
+## Overview
 - [Managing Realtime AI Cost in Production: A Practical Guide - Seldon](https://www.seldon.io/managing-realtime-ai-cost-in-production-a-practical-guide)
 
 ### Infrastructure & Costs

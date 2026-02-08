@@ -8,14 +8,7 @@ language: "en"
 
 # 12 - Action Plan and Implementation Roadmap
 
-## Sources
-- [McKinsey: Unlocking the value of AI in software development](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/unlocking-the-value-of-ai-in-software-development)
-- [Onramp: SaaS Implementation: Best Practices to Maximize Your ROI on New ...](https://onramp.us/blog/software-implementation)
-- [Sastrify: SaaS Implementation Guide: Step-By-Step Plan, Best Practices ...](https://www.sastrify.com/blog/saas-implementation)
-- [Phenom: SaaS Implementation Guide: Steps, Best Practices & Success Stories](https://www.phenom.com/blog/saas-implementation-guide)
-- [Dock.us: SaaS Implementation Plan and Best Practices - Dock.us](https://www.dock.us/library/software-saas-implementations)
-- [Plauti: 6 Steps to SaaS Implementation Success: A Comprehensive…](https://www.plauti.com/guides/marketing-tech-stack-guide/martech-implementation-strategy)
-- [Precursive: project implementation: best practices in psa](https://www.precursive.com/post/project-implementation-best-practices-in-psa)
+> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 

@@ -8,13 +8,7 @@ language: "en"
 
 # 04 - Market Predictions and Forecasts
 
-## Sources
-- [Foundation Capital: AI leads a service as software paradigm shift](https://foundationcapital.com/ai-service-as-software/)
-- [Madrona: Service as Software: The Foundation of Outcome Delivery in Applied AI](https://www.madrona.com/service-as-software-the-foundation-of-outcome-delivery-in-applied-ai/)
-- [Kellton: Beyond Software: The Rise of Service-as-a-Software (The New SaaS)](https://www.kellton.com/kellton-tech-blog/service-as-a-software)
-- [Falk Gottlob: The Shift from SaaS to Service-as-Software](https://medium.com/@falkgottlob/the-shift-from-saas-to-service-as-software-building-systems-of-work-for-an-ai-driven-future-33f81e4b8b09)
-- [EY: SaaS transformation with GenAI: outcome-based pricing](https://www.ey.com/en_us/insights/tech-sector/saas-transformation-with-genai-outcome-based-pricing)
-- [Wipro Ventures: Reimagining Services-as-Software](https://www.wipro.com/blogs/biplab-adhya/reimagining-services-as-software-wipro-ventures-investment-thesis/)
+> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
 
 ## Market Size and Growth Projections
 
