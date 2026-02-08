@@ -98,20 +98,6 @@ For practical implementation guidance:
 
 ## Chapter Summaries
 
-### [Research Plan](00-research-plan.md)
-
-**Content:** Original research plan and methodology
-
-**Key Points:**
-- Research objectives and questions
-- Systematic approach to information gathering
-- Parallel search strategy using MCP tools
-- Documentation structure and format
-
-**Read this if:** You want to understand the research methodology or replicate the research process.
-
----
-
 ### [Common Information and Model Overview](01-common-information-and-model-overview.md)
 
 **Content:** Introduction to Service-As-Software, what it is, how it differs from SaaS, and alternative names for this model.
@@ -596,6 +582,20 @@ Documentation Map:
 
 This appendix contains all research sources referenced throughout the documentation. Individual chapters reference specific sources inline; this appendix provides the complete bibliography.
 
+
+### [Research Plan](00-research-plan.md)
+
+**Content:** Original research plan and methodology
+
+**Key Points:**
+- Research objectives and questions
+- Systematic approach to information gathering
+- Parallel search strategy using MCP tools
+- Documentation structure and format
+
+**Read this if:** You want to understand the research methodology or replicate the research process.
+
+---
 ### Primary Sources
 
 - [Thoughtworks: Service-as-software: A new economic model for age of AI agents](https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents)
