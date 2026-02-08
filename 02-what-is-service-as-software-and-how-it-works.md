@@ -170,10 +170,11 @@ Service-as-Software systems include built-in quality controls:
 5. **SLA compliance**: Automatic enforcement of service levels
 
 ### The Trust Layer
+### The Trust Layer:
 
 A critical component of Service-as-Software is the trust layer:
 
-> "SaS is built on a foundation of trust. The software must be reliable, secure, and compliant. This requires robust monitoring, validation, and human oversight." — [https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents](Thoughtworks: Service-as-software: A new economic model for age of AI agents)
+> "SaS is built on a foundation of trust. The software must be reliable, secure and compliant. This requires robust monitoring, validation, and human oversight." — [https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents](Thoughtworks: Service-as-software: A new economic model for age of AI agents)
 
 **Trust mechanisms include:**
 - **Explainability**: Ability to trace agent decisions
@@ -182,6 +183,36 @@ A critical component of Service-as-Software is the trust layer:
 - **Transparency dashboards**: Real-time visibility into operations
 - **Human-in-the-loop**: Critical decisions require human approval
 
+#### Legal and Regulatory Requirements for Trust
+
+**EU AI Act Compliance:**
+- **Transparency Obligations (Article 13)**: Users must be informed when interacting with AI systems; AI-generated content must be clearly labeled
+- **Human Oversight (Article 14)**: Critical decisions require human approval; escalation procedures must be documented
+- **Technical Documentation (Article 11)**: Comprehensive documentation of system architecture, performance metrics, and risk mitigation measures
+- **Record Keeping (Article 12)**: Automatic logging of AI events with traceability and audit trails; minimum retention periods (usage logs: 6 months, security logs: 24 months)
+- **Fundamental Rights Impact Assessment (Article 27)**: Assessment of impacts on fundamental rights before deploying high-risk systems
+
+**GDPR Compliance:**
+- **Article 22 - Automated Decision-Making**: Users have right to human intervention and explanation for decisions that significantly affect them
+- **Data Protection Impact Assessment (DPIA)**: Required for high-risk AI systems processing personal data
+- **Data Subject Rights**: Implementation of rights to access, rectify, erase, and object to automated decisions
+
+**NIS2 Compliance:**
+- **Incident Reporting**: 24-hour early warning for significant incidents; detailed reporting to authorities and affected individuals
+- **Supply Chain Security**: Assessment and security of AI vendors and third-party dependencies
+- **Business Continuity**: Comprehensive plans for AI system failures and cyber incidents
+- **Board-Level Accountability**: Corporate responsibility for cybersecurity and AI risks
+
+**Sector-Specific Compliance:**
+- **Healthcare (HIPAA)**: MFA required by December 2025; enhanced encryption; comprehensive audit logging; business associate agreements
+- **Financial Services (PCI DSS)**: Secure transmission and encryption of cardholder data; regular vulnerability scanning; access controls
+- **SOX Compliance**: Internal controls over financial reporting; documentation of AI-assisted processes
+
+**US State Laws:**
+- **Colorado AI Act (effective February 2026)**: Risk management policies; impact assessments; consumer notifications for consequential decisions; algorithmic discrimination disclosure
+
+**See Also:**
+- [[14-Legal-and-Regulatory-Perspective-Service-As-Software]] - Comprehensive legal and regulatory analysis
 ### Comparison with Traditional Service Models
 
 | Aspect | Professional Services | SaaS | Service-as-Software |

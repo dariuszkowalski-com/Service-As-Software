@@ -34,7 +34,8 @@ Documentation Map:
 ├── 10. Hidden Insights and Non-Obvious Factors
 ├── 11. Recommendations for Entrepreneurs
 ├── 12. Action Plan and Implementation Roadmap
-└── 13. CIO/CTO Technical Perspective and SDLC
+├── 13. CIO/CTO Technical Perspective and SDLC
+└── 14. Legal and Regulatory Perspective
 ```
 
 ## Quick Start Guide
@@ -380,6 +381,27 @@ Documentation Map:
 - Integration complexity: 3.5x more complex than typical SaaS
 
 **Read this if:** You're a CIO/CTO planning, implementing, or scaling Service-As-Software systems.
+---
+
+### [Legal and Regulatory Perspective](14-Legal-and-Regulatory-Perspective-Service-As-Software.md)
+
+**Content:** Comprehensive legal and regulatory analysis for Service-As-Software across EU, US, UK, Asia-Pacific, and global jurisdictions.
+
+**Key Points:**
+- **EU Regulations**: AI Act (risk-based classification, conformity assessments), GDPR (data protection, Article 22 automated decisions), NIS2 (critical infrastructure cybersecurity), DSA/DMA (platform regulations)
+- **US Regulations**: Federal developments (Executive Orders, NIST AI Risk Management Framework), state-level (Colorado AI Act), sector-specific (HIPAA, PCI DSS, SOX)
+- **UK Regulations**: FCA AI Code of Practice, Data Protection Act, Online Safety Act
+- **Asia-Pacific**: China's comprehensive AI regulations, Japan's AI Guidelines, Singapore's Model AI Governance Framework
+- **Technical Requirements**: AI Act conformity assessments (6-18 months, €50K-500K), GDPR DPIAs, NIS2 cybersecurity incident reporting, CE marking for high-risk AI
+- **What Legal Needs from Business**: Documentation (technical documentation, audit trails), contracts (liability allocation, SLAs, indemnification), data governance (lawful basis, consent management, data retention), compliance monitoring (automated, regular assessments)
+
+**Key Statistics:**
+- **EU AI Act**: High-risk systems require conformity assessment before market placement
+- **GDPR Fines**: Up to €20M or 4% of global revenue
+- **Compliance Costs**: $50K-200K/year for monitoring, $100K-500K one-time for conformity assessments
+- **Regulatory Timeline**: EU AI Act phased implementation 2024-2027
+
+**Read this if:** You need to understand legal and regulatory requirements for Service-As-Software across jurisdictions.
 
 ## Key Statistics Summary
 

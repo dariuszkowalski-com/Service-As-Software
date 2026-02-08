@@ -252,6 +252,53 @@ What regulations will governments implement for AI agents?
 - China developing comprehensive regulations
 - International coordination challenging
 
+**Regulatory Implementation Unknowns:**
+
+| Regulatory Aspect | Unknown | Timeline Impact | Strategic Implications |
+|------------------|----------|-----------------|----------------------|
+| **EU AI Act Enforcement** | How strictly will regulators enforce? | 2024-2027 rollout | Market entry timing, compliance costs |
+| **US Federal AI Law** | Will comprehensive federal law pass? | 2025-2027 | Fragmentation vs. uniformity |
+| **Cross-Border Recognition** | Will mutual recognition agreements emerge? | 2025-2030 | Global expansion strategy |
+| **Regulatory Classification** | How will borderline cases be classified? | Ongoing | Product design, market positioning |
+| **Penalty Severity** | How high will fines actually be? | 2025-2028 | Risk tolerance, insurance costs |
+| **Standardization Bodies** | Which standards become de facto? | 2024-2026 | Technology choices, compliance path |
+
+**Legal Uncertainty by Jurisdiction:**
+
+```
+Regulatory Uncertainty Map:
+
+EU (High Certainty, High Complexity):
+├── AI Act: Clear but complex risk-based system
+├── GDPR: Well-established but AI-specific guidance evolving
+├── NIS2: Clear cybersecurity requirements
+└── DSA/DMA: Platform-specific rules
+
+US (Low Certainty, Medium Complexity):
+├── Federal: No comprehensive AI law yet
+├── State Level: Fragmented (Colorado AI Act, etc.)
+├── Agency Guidance: NIST, FTC, SEC developing guidance
+└── Sector-Specific: HIPAA, PCI DSS, etc.
+
+UK (Medium Certainty, Medium Complexity):
+├── Post-Brexit: Diverging from EU
+├── FCA: AI Code of Practice for financial services
+├── Data Protection: Similar to GDPR but evolving
+└── Online Safety Act: Platform regulation
+
+Asia-Pacific (Low-Medium Certainty, High Complexity):
+├── China: Comprehensive but opaque AI regulations
+├── Japan: Voluntary guidelines, light regulation
+├── Singapore: Model AI Governance Framework
+└── Others: Diverse approaches, rapid evolution
+
+Rest of World (Low Certainty, Medium-High Complexity):
+├── Latin America: Following EU model (Brazil's AI bill)
+├── Africa: Limited regulation, growing interest
+├── Middle East: Developing frameworks
+└── Eastern Europe: Aligning with EU
+```
+
 ### 8. Liability Frameworks
 
 **The Unknown:**
