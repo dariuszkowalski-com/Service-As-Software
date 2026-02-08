@@ -10,46 +10,6 @@ language: "en"
 
 >**Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
-## Overview
-- [Managing Realtime AI Cost in Production: A Practical Guide - Seldon](https://www.seldon.io/managing-realtime-ai-cost-in-production-a-practical-guide)
-
-### Infrastructure & Costs
-- [The Hidden Cost of AI Agents: Why 'Free' Isn't Free - Medium](https://medium.com/@balarampanda.ai/the-hidden-cost-of-ai-agents-why-free-isn-t-free-8251dfe5bd5c)
-- [AI's cost crisis: How to avoid overpaying for compute in 2025](https://north.cloud/blog/ais-cost-crisis-how-to-avoid-overpaying-for-compute-in-2025)
-- [ScaleOps' new AI Infra Product slashes GPU costs for self-hosted enterprise LLMs by 50%](https://venturebeat.com/infrastructure/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise)
-- [Real Costs of Implementing AI Agents in 2025: Pricing Guide](https://www.technovapartners.com/en/insights/real-costs-implementing-ai-agents-2025)
-- [2025: The State of Generative AI in the Enterprise | Menlo Ventures](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/)
-
-### Security & DevSecOps
-- [Obsidian Security: Top AI Agent Security Risks and How to Mitigate Them](https://www.obsidiansecurity.com/blog/ai-agent-security-risks)
-- [AI Agent Attacks in Q4 2025 Signal New Risks for 2026](https://www.esecurityplanet.com/artificial-intelligence/ai-agent-attacks-in-q4-2025-signal-new-risks-for-2026)
-- [2025 Trends on AI Security - How AppSec Must Evolve](https://checkmarx.com/learn/ai-security/2025-trends-on-ai-security-how-appsec-must-evolve-with-the-ai-shifted-sdlc/)
-- [DevSecOps Summit 2025: AI Security From Pipeline to Production](https://www.harness.io/blog/devsecops-summit-2025-ai-security-from-pipeline-to-production)
-- [Prompt Attacks — The No.1 AI Security Risk | by Quy Tang](https://medium.com/aiguardian-govtech/prompt-attacks-the-no-1-ai-native-security-risk-0b5a0315c2a0)
-- [ForcedLeak: The $5 Exploit That Broke Salesforce's AI Agents](https://inspiredelearning.com/blog/forcedleak-breaks-salesforce-ai-agents/)
-
-### Integration & Legacy Systems
-- [AI Integration with Legacy Systems: A Practical Modernization Guide (2025)](https://www.tredence.com/blog/ai-integration-with-legacy-systems)
-- [6 Challenges in Enterprise AI Integration Solved with Agentic AI](https://datagrid.ai/blog/6-enterprise-ai-integration-challenges-agentic-ai)
-- [Applying agentic AI to legacy systems? Prepare for these 4 challenges](https://www.cio.com/article/4022454/applying-agentic-ai-to-legacy-systems-prepare-for-these-4-challenges.html)
-
-### Observability & MLOps
-- [The Complete MLOps/LLMOps Roadmap for 2026](https://medium.com/@sanjeebmeister/the-complete-mlops-llmops-roadmap-for-2026-building-production-grade-ai-systems-bdcca5ed2771)
-- [The 5 best LLMOps platforms in 2025 - Articles - Braintrust](https://www.braintrust.dev/articles/best-llmops-platforms-2025)
-- [LLMOps for AI Agents in Production: Monitoring, Testing, and Iteration](https://onereach.ai/blog/llmops-for-ai-agents-in-production)
-
-### CTO Strategy & Leadership
-- [The CTO's Guide to Scaling Tech Teams in 2025 - Bridge Labs](https://bridgelabs.tech/insights/the-ctos-guide-to-scaling-tech-teams-in-2025)
-- [Key Responsibilities and Strategies for a Successful CTO in 2025](https://www.techdots.dev/blog/key-responsibilities-and-strategies-for-a-successful-cto-in-2025)
-- [2025 Guide to Hire a CTO: Full-Time, Fractional, or Outsourced](https://www.elitebrains.com/blog/cto-hiring-guide-full-time-fractional-or-outsourced)
-- [Become a CTO in 5 Years: A Roadmap to Tech Leadership - TechCXO](https://www.techcxo.com/become-a-cto-in-5-years)
-
-### Business Requirements
-- [The business technology outlook for 2025 | CIO Dive](https://www.ciodive.com/news/business-technology-outlook-2025)
-- [A New Paradigm For Business Technology: The Rise Of Service As Software](https://www.forbes.com/councils/forbestechcouncil/2025/01/22/a-new-paradigm-for-business-technology-the-rise-of-service-as-software)
-- [CIO's Guide: Master Enterprise Integration in 2025 - Aspire Systems](https://www.aspiresys.com/blog/digital-integration/enterprise-integration/a-cios-survival-guide-to-master-enterprise-integration-challenges-in-2025)
-
----
 
 ## Overview
 
@@ -1119,6 +1079,47 @@ Workforce Transformation:
 6. **Shadow AI is Serious Risk**: Unmonitored deployments create security vulnerabilities
 7. **Talent Premium Creates Margin Pressure**: AI skills 3-5x market rate
 8. **Technology Debt Accumulates Faster**: Prompt debt, integration debt require active management
+
+---
+
+## Sources
+- [Managing Realtime AI Cost in Production: A Practical Guide - Seldon](https://www.seldon.io/managing-realtime-ai-cost-in-production-a-practical-guide)
+
+### Infrastructure & Costs
+- [The Hidden Cost of AI Agents: Why 'Free' Isn't Free - Medium](https://medium.com/@balarampanda.ai/the-hidden-cost-of-ai-agents-why-free-isn-t-free-8251dfe5bd5c)
+- [AI's cost crisis: How to avoid overpaying for compute in 2025](https://north.cloud/blog/ais-cost-crisis-how-to-avoid-overpaying-for-compute-in-2025)
+- [ScaleOps' new AI Infra Product slashes GPU costs for self-hosted enterprise LLMs by 50%](https://venturebeat.com/infrastructure/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise)
+- [Real Costs of Implementing AI Agents in 2025: Pricing Guide](https://www.technovapartners.com/en/insights/real-costs-implementing-ai-agents-2025)
+- [2025: The State of Generative AI in the Enterprise | Menlo Ventures](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/)
+
+### Security & DevSecOps
+- [Obsidian Security: Top AI Agent Security Risks and How to Mitigate Them](https://www.obsidiansecurity.com/blog/ai-agent-security-risks)
+- [AI Agent Attacks in Q4 2025 Signal New Risks for 2026](https://www.esecurityplanet.com/artificial-intelligence/ai-agent-attacks-in-q4-2025-signal-new-risks-for-2026)
+- [2025 Trends on AI Security - How AppSec Must Evolve](https://checkmarx.com/learn/ai-security/2025-trends-on-ai-security-how-appsec-must-evolve-with-the-ai-shifted-sdlc/)
+- [DevSecOps Summit 2025: AI Security From Pipeline to Production](https://www.harness.io/blog/devsecops-summit-2025-ai-security-from-pipeline-to-production)
+- [Prompt Attacks — The No.1 AI Security Risk | by Quy Tang](https://medium.com/aiguardian-govtech/prompt-attacks-the-no-1-ai-native-security-risk-0b5a0315c2a0)
+- [ForcedLeak: The $5 Exploit That Broke Salesforce's AI Agents](https://inspiredelearning.com/blog/forcedleak-breaks-salesforce-ai-agents/)
+
+### Integration & Legacy Systems
+- [AI Integration with Legacy Systems: A Practical Modernization Guide (2025)](https://www.tredence.com/blog/ai-integration-with-legacy-systems)
+- [6 Challenges in Enterprise AI Integration Solved with Agentic AI](https://datagrid.ai/blog/6-enterprise-ai-integration-challenges-agentic-ai)
+- [Applying agentic AI to legacy systems? Prepare for these 4 challenges](https://www.cio.com/article/4022454/applying-agentic-ai-to-legacy-systems-prepare-for-these-4-challenges.html)
+
+### Observability & MLOps
+- [The Complete MLOps/LLMOps Roadmap for 2026](https://medium.com/@sanjeebmeister/the-complete-mlops-llmops-roadmap-for-2026-building-production-grade-ai-systems-bdcca5ed2771)
+- [The 5 best LLMOps platforms in 2025 - Articles - Braintrust](https://www.braintrust.dev/articles/best-llmops-platforms-2025)
+- [LLMOps for AI Agents in Production: Monitoring, Testing, and Iteration](https://onereach.ai/blog/llmops-for-ai-agents-in-production)
+
+### CTO Strategy & Leadership
+- [The CTO's Guide to Scaling Tech Teams in 2025 - Bridge Labs](https://bridgelabs.tech/insights/the-ctos-guide-to-scaling-tech-teams-in-2025)
+- [Key Responsibilities and Strategies for a Successful CTO in 2025](https://www.techdots.dev/blog/key-responsibilities-and-strategies-for-a-successful-cto-in-2025)
+- [2025 Guide to Hire a CTO: Full-Time, Fractional, or Outsourced](https://www.elitebrains.com/blog/cto-hiring-guide-full-time-fractional-or-outsourced)
+- [Become a CTO in 5 Years: A Roadmap to Tech Leadership - TechCXO](https://www.techcxo.com/become-a-cto-in-5-years)
+
+### Business Requirements
+- [The business technology outlook for 2025 | CIO Dive](https://www.ciodive.com/news/business-technology-outlook-2025)
+- [A New Paradigm For Business Technology: The Rise Of Service As Software](https://www.forbes.com/councils/forbestechcouncil/2025/01/22/a-new-paradigm-for-business-technology-the-rise-of-service-as-software)
+- [CIO's Guide: Master Enterprise Integration in 2025 - Aspire Systems](https://www.aspiresys.com/blog/digital-integration/enterprise-integration/a-cios-survival-guide-to-master-enterprise-integration-challenges-in-2025)
 
 ---
 

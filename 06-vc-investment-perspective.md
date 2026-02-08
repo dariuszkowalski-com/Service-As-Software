@@ -340,31 +340,25 @@ Outcome Metrics:
 - Demonstrate adaptability
 - Highlight responsible AI practices
 
-**Legal and Regulatory Considerations for VCs:**
+**Legal and Regulatory Considerations for VCs**
 
-| Regulatory Area | Impact on Investment | Key Questions to Ask |
-|-----------------|---------------------|----------------------|
-| **EU AI Act** | High-Risk systems require conformity assessments, raising time-to-market and costs | Does the product classify as high-risk? What's the CE marking strategy? |
-| **GDPR/CCPA** | Data processing requirements affect data strategy and monetization | What's the lawful basis for data processing? How is consent managed? |
-| **NIS2** | Critical infrastructure operators face cybersecurity incident reporting and supply chain requirements | Are you or your customers subject to NIS2? What's the cybersecurity posture? |
-| **Sector-Specific Regulations** | HIPAA, PCI DSS, MiFID II, etc. add compliance complexity | Which sector-specific regulations apply? How is compliance ensured? |
-| **Liability Frameworks** | New AI liability rules (EU Product Liability Directive) allocate responsibility differently | How is liability allocated with customers? What insurance coverage is needed? |
-| **International Expansion** | Different jurisdictions have different AI and data regulations | What's the strategy for multi-jurisdictional compliance? |
+> **Note:** For comprehensive coverage of regulatory considerations for VCs, see [14-Legal-and-Regulatory-Perspective-Service-As-Software](14-Legal-and-Regulatory-Perspective-Service-As-Software.md)
+
+**Key Regulatory Areas:**
+- **EU AI Act**: High-risk systems require conformity assessments
+- **GDPR/CCPA**: Data processing requirements affect data strategy
+- **NIS2**: Cybersecurity requirements for critical infrastructure
+- **Sector-Specific Regulations**: HIPAA, PCI DSS, MiFID II, etc.
+- **Liability Frameworks**: New liability rules allocate responsibility differently
 
 **Regulatory Red Flags for VCs:**
 - Lack of compliance framework or legal expertise on team
 - Products in high-risk categories without clear conformity assessment path
 - Heavy reliance on personal data without clear consent mechanisms
 - Plans to operate in highly regulated sectors without regulatory expertise
-- Absence of data governance and privacy-by-design principles
-- No insurance or liability allocation strategy
 
-**Regulatory Investment Opportunities:**
-- Companies building compliance-as-a-service for AI
-- Startups providing explainability and transparency tools
-- Firms offering data governance and privacy solutions
-- Platforms facilitating cross-border data transfer compliance
-- Services providing AI risk assessment and monitoring
+**See Also:**
+- [14-Legal-and-Regulatory-Perspective-Service-As-Software](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Comprehensive legal and regulatory analysis
 
 ## Key Takeaways for Founders
 

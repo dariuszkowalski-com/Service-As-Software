@@ -514,20 +514,19 @@ On 20 January 2026, European Commission proposed targeted amendments to NIS2 dir
 
 ---
 
-## Part 6: Technical Requirements for Service-As-Software
+## Technical Requirements
 
-### 6.1 EU-Specific Technical Requirements
+> **Note:** For comprehensive coverage of technical requirements and architecture, see [13-CIO-CTO-Technical-Perspective-and-SDLC](13-CIO-CTO-Technical-Perspective-and-SDLC.md)
 
-#### AI Act Technical Documentation Requirements
+**Key Technical Requirements for Legal Compliance:**
+- **Audit Trails**: Complete logging of all AI events with traceability
+- **Data Governance**: Data lineage tracking, provenance documentation
+- **Human-in-the-Loop**: Technical capabilities for human oversight and intervention
+- **Documentation**: Automated technical documentation generation
+- **Monitoring**: Real-time compliance monitoring and reporting
 
-**For High-Risk AI Systems:**
-
-**Risk Management System (Article 9):**
-- Establishment, implementation, documentation, and maintenance of risk management system
-- Must cover risks to health, safety, and fundamental rights
-- Continuous monitoring and updating
-
-**Quality Management System (Article 10):**
+**See Also:**
+- [13-CIO-CTO-Technical-Perspective-and-SDLC](13-CIO-CTO-Technical-Perspective-and-SDLC.md) - Comprehensive technical perspective and SDLC
 - Policies and procedures for data quality, data governance, and record-keeping
 - Data validation and quality control measures
 - Documentation of data sources and lineage
