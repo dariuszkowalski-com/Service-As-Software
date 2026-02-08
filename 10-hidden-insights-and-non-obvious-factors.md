@@ -113,7 +113,7 @@ AI agents with elevated privileges become high-value targets for identity attack
 ### 4. Hidden Operational Costs
 
 **The Hidden Reality:**
-AI operational costs are often 3-5x higher than initial estimates.
+AI operational costs often significantly exceed initial estimates.
 
 > "Most AI pitches focus on license costs, ignoring the operational multiplier. For every $1 in AI licensing, expect $3-5 in operational costs: compute overhead, human oversight, error correction, and integration maintenance." — [Nates Newsletter: Software 3.0 vs AI Agentic Mesh: Why McKinsey Got It Wrong](https://natesnewsletter.substack.com/p/software-30-vs-ai-agentic-mesh-why)
 
@@ -264,7 +264,7 @@ Service-as-Software Change:
 ### 10. Integration Complexity
 
 **The Hidden Reality:**
-Deep integrations required for Service-as-Software are 3-5x more complex than typical SaaS.
+Deep integrations required for Service-as-Software are significantly more complex than typical SaaS.
 
 **Hidden Complexity Factors:**
 
@@ -402,10 +402,10 @@ Service-as-Software exits may follow different patterns than traditional SaaS.
 ## Key Takeaways
 
 1. **Security transformation**: AI requires entirely new security approaches
-2. **Cost reality**: Operational costs 3-5x higher than apparent
+2. **Cost reality**: Operational costs significantly higher than apparent
 3. **Model obsolescence**: 12-18 month competitive shelf lives
 4. **Cultural resistance**: Deeper and more complex than technical challenges
-5. **Integration complexity**: 3-5x more complex than typical SaaS
+5. **Integration complexity**: Significantly more complex than typical SaaS
 6. **Data quality critical**: 10x more important than traditional software
 7. **Timing windows**: First-mover advantage larger but more fragile
 8. **Competitive complexity**: Multiple competitive fronts simultaneously

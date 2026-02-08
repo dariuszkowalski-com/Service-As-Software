@@ -13,7 +13,7 @@ language: "en"
 This comprehensive documentation provides an in-depth analysis of Service-As-Software (SaS) model, where software delivers completed services rather than just providing tools. The research covers all aspects of this emerging business model, from fundamentals to practical implementation guidance.
 
 
-## Quick Start Guide {#quick-start-guide}
+## Quick Start Guide
 
 ### Quick Understanding
 For a quick overview of Service-As-Software fundamentals:
@@ -290,7 +290,7 @@ For practical implementation guidance:
 
 **Key Insights:**
 - AI has 12-18 month competitive shelf life
-- Operational costs are 3-5x higher than initial estimates
+- Operational costs significantly exceed initial estimates
 - Public "creepiness factor" is real concern
 - Model obsolescence requires continuous reinvestment
 
@@ -304,9 +304,9 @@ For practical implementation guidance:
 
 **Key Hidden Insights:**
 - Security: New attack vectors (prompt injection, data leakage, model poisoning)
-- Economic: Hidden operational costs (3-5x higher), model obsolescence (12-18 months)
+- Economic: Hidden operational costs significantly exceed initial estimates, model obsolescence (12-18 months)
 - Organizational: Cultural resistance deeper than technical challenges
-- Technical: Integration complexity 3-5x higher than typical SaaS
+- Technical: Integration complexity significantly higher than typical SaaS
 - Strategic: First-mover advantage larger but more fragile
 
 **Hidden Realities:**
@@ -374,16 +374,16 @@ For practical implementation guidance:
 - **Agentic SDLC**: AI agents participate across all development phases
 - **Infrastructure**: GPU strategy, RAG architecture, multi-agent systems
 - **Security**: AI-native threats (prompt injection, data leakage, model poisoning)
-- **Costs**: 3.5x operational multiplier, model obsolescence (12-18 months)
+- **Costs**: Significant operational multiplier, model obsolescence (12-18 months)
 - **Talent**: AI engineers, MLOps engineers, AI security engineers, prompt engineers
 - **MLOps/LLMOps**: Model management, prompt management, observability, evaluation
 
 **Key Realities:**
 - GPU costs: $350-500/month (small) to $30,000-50,000+/month (enterprise)
-- Hidden costs: 3.5x multiplier over licensing
+- Hidden costs: Significant multiplier over licensing
 - Model shelf life: 12-18 months before competitive obsolescence
-- Talent premium: 3-5x market rate for AI skills
-- Integration complexity: 3.5x more complex than typical SaaS
+- Talent premium: 25-45% market rate for AI skills (Source: Indeed AI at Work Report 2025, RiseWorks AI Talent Report 2026)
+- Integration complexity: Significantly more complex than typical SaaS
 
 **Read this if:** You're a CIO/CTO planning, implementing, or scaling Service-As-Software systems.
 
@@ -446,10 +446,10 @@ For practical implementation guidance:
 
 **Key Points:**
 - **AI Readiness Reality**: 88% of organizations using AI, but only 31% scaling enterprise-wide; 90% face critical skills shortages by 2026
-- **The GenAI Divide**: 18-month window to establish AI capabilities; late adopters face 3-5x higher implementation costs
+- **The GenAI Divide**: 18-month window to establish AI capabilities; late adopters face significantly higher implementation costs
 - **Key Challenges**: Integration complexity (64% cite as barrier), data governance gaps (67% privacy concerns), skills shortage (40% lack AI expertise), organizational resistance (42% report AI "tearing company apart")
 - **Vendor Lock-In Risks**: Learning-capable systems create switching costs; 12-18 month window for vendor decisions
-- **Hidden Costs**: 3.5x operational multiplier over licensing; model obsolescence every 12-18 months
+- **Hidden Costs**: Significant operational multiplier over licensing; model obsolescence every 12-18 months
 - **Workforce Impact**: Hourglass structure in knowledge work (junior and senior expanding, mid-level shrinking); new roles: AI operations managers, human-AI interaction specialists, agent orchestrators
 - **Industry Adoption**: Technology/services fastest (60-80% by 2028); healthcare, manufacturing, finance moderate; government, education slowest
 - **Legal & Regulatory**: EU AI Act enforcement August 2026; US state patchwork; compliance costs 5-10% of TCO
@@ -475,7 +475,7 @@ For practical implementation guidance:
 - **Enterprise Architecture**: Social lens architecture, AI-enhanced EA, compliance-first architecture (EU AI Act, GDPR Article 22, NIS2)
 - **System Architecture**: Reference architecture patterns, infrastructure architecture (GPU, vector DB, streaming, observability)
 - **Skills Transformation**: Traditional vs. Service-As-Software architect skills, emerging roles (AI Architect, Multi-Agent Architect, RAG Architect, AI Security Architect)
-- **Key Challenges**: Multi-agent coordination, model obsolescence (12-18 months), RAG retrieval accuracy (70-85%), cost predictability (3.5x multiplier), legacy integration (40% project failure rate)
+- **Key Challenges**: Multi-agent coordination, model obsolescence (12-18 months), RAG retrieval accuracy (70-85%), cost predictability (significant multiplier), legacy integration (40% project failure rate)
 - **Development Directions**: Near-term trends (2026-2027), long-term trends (2028-2030), platform vs. vertical dynamics
 - **Non-Obvious Risks**: Multi-agent coordination debt, RAG retrieval bias, model agnosticism debt, legacy integration complexity, observability blind spots
 
@@ -483,12 +483,12 @@ For practical implementation guidance:
 - **Multi-Agent Limit**: ~5 agents where GPU throughput stays flat, P99 latency explodes due to serialized handoffs
 - **Model Shelf Life**: 12-18 months before competitive obsolescence
 - **RAG Accuracy**: 70-85% typical retrieval accuracy
-- **Legacy Integration**: 3.5x more complex than typical SaaS integration
-- **Talent Premium**: 3-5x market rate for AI architecture skills
+- **Legacy Integration**: Significantly more complex than typical SaaS integration
+- **Talent Premium**: 25-45% market rate for AI architecture skills (Source: Indeed AI at Work Report 2025, RiseWorks AI Talent Report 2026)
 - **Integration Failure Rate**: 40% of agentic AI projects fail by 2027 due to legacy systems (Gartner)
 
 **What Architects Need from Other Perspectives:**
-- **CIO/CTO**: Cost management (3.5x multiplier), infrastructure planning, SDLC transformation
+- **CIO/CTO**: Cost management (significant multiplier), infrastructure planning, SDLC transformation
 - **Legal**: EU AI Act compliance (risk management, technical documentation, human oversight), GDPR Article 22 (automated decisions), NIS2 compliance
 - **Data/ML**: RAG architecture, MLOps/LLMOps, data quality
 - **Business**: Outcome definition, customer experience, revenue model alignment
@@ -516,9 +516,9 @@ For practical implementation guidance:
 - **Geographic Leadership:** North America 45-50% by 2030
 
 ### Hidden Realities
-- **Operational Cost Multiplier:** 3-5x higher than initial estimates
+- **Operational Cost Multiplier:** Significantly higher than initial estimates
 - **Model Shelf Life:** 12-18 months before competitive obsolescence
-- **Integration Complexity:** 3-5x more complex than typical SaaS
+- **Integration Complexity:** Significantly more complex than typical SaaS
 - **Data Quality Importance:** 10x more important than traditional software
 
 ## How to Use This Documentation

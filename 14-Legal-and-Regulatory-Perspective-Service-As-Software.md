@@ -1208,7 +1208,7 @@ On 20 January 2026, European Commission proposed targeted amendments to NIS2 dir
 1. **Conduct Regulatory Gap Analysis:** Comprehensive assessment of current practices vs. requirements
 2. **Establish AI Governance Structure:** Appoint CAIO, establish AI governance committee
 3. **Develop Compliance Strategy:** Prioritize regulations based on business footprint
-4. **Allocate Compliance Budget:** 3.5x multiplier for realistic cost planning
+4. **Allocate Compliance Budget:** Include realistic operational costs; Microsoft-IDC study reports average ROI of 3.5x on AI investments [Source: https://medium.com/@shayantanidebroy/the-cost-dilemma-of-ai-implementations-balancing-investments-and-roi-729421c12445]
 5. **Engage Legal Counsel:** Early involvement in contract and compliance planning
 6. **Establish Board Oversight:** Regular reporting on AI risks and compliance
 
@@ -1301,7 +1301,7 @@ On 20 January 2026, European Commission proposed targeted amendments to NIS2 dir
 **Technical Excellence is Table Stakes:**
 - Service-As-Software requires fundamentally different technical approach than traditional SaaS
 - AI-native security is non-negotiable requirement
-- Compliance costs are 3.5x higher than initial estimates
+- Compliance costs are higher than initial estimates
 - Model obsolescence creates continuous reinvestment requirement (12-18 months)
 - Multi-agent coordination complexity is underestimated
 
@@ -1331,7 +1331,7 @@ On 20 January 2026, European Commission proposed targeted amendments to NIS2 dir
 - Human oversight: 25-40% of operational costs for high-risk systems
 - Security overhead: 15-25% for AI-specific security measures
 - Quality assurance: 10-20% additional costs for behavioral validation
-- Integration complexity: 3.5x more complex than typical SaaS integration
+- Integration complexity: More complex than typical SaaS integration
 
 **Liability Exposure:**
 - Unlimited liability under EU Product Liability Directive for defective AI systems
@@ -1364,7 +1364,7 @@ The organizations that will thrive in this environment will be those that:
 2. **Invest in AI-Native Security and Governance:** Traditional security approaches are insufficient for AI systems
 3. **Develop Flexible, Model-Agnostic Architecture:** Vendor lock-in and regulatory changes are constant risks
 4. **Establish Cross-Functional AI Governance:** Legal, technical, and ethical oversight must be integrated
-5. **Plan for 3.5x Cost Multiplier:** Realistic budgeting for compliance and operations
+5. **Plan for Realistic Cost Budgeting:** Include operational costs beyond licensing; Microsoft-IDC study reports average ROI of 3.5x on AI investments [Source: https://medium.com/@shayantanidebroy/the-cost-dilemma-of-ai-implementations-balancing-investments-and-roi-729421c12445]
 6. **Build Specialized Legal and Compliance Teams:** Generalist legal teams cannot navigate AI-specific regulations
 7. **Embrace Transparency and Explainability:** These are not optional but core requirements
 8. **Prepare for Liability Evolution:** AI liability frameworks are still emerging and will evolve rapidly

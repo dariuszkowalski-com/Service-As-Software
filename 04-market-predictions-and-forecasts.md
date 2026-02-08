@@ -240,7 +240,7 @@ Service-as-Software will create entirely new service categories:
 > **Note:** For comprehensive coverage of legal and regulatory impacts, see [14-Legal-and-Regulatory-Perspective-Service-As-Software](14-Legal-and-Regulatory-Perspective-Service-As-Software.md)
 
 **Regulatory Influence on Market Growth**
-Compliance costs (3.5x multiplier for operations, 200-400 pages of technical documentation, €50,000-200,000 conformity assessments) create entry barriers and competitive advantages for early movers.
+Compliance costs (significant multiplier for operations, 200-400 pages of technical documentation, €50,000-200,000 conformity assessments) create entry barriers and competitive advantages for early movers.
 
 **Liability Uncertainty**
 AI liability frameworks are still emerging across jurisdictions, creating implementation challenges for Service-As-Software providers.
