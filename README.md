@@ -67,8 +67,20 @@ For a quick overview of Service-As-Software fundamentals:
 2. [02-What-is-Service-As-Software-and-How-It-Works](02-what-is-service-as-software-and-how-it-works.md) - Technical architecture
 3. [08-Challenges-and-Solutions](08-Challenges-and-Solutions) - Technical challenges
 4. [13-CIO-CTO-Technical-Perspective-and-SDLC](13-cio-cto-technical-perspective-and-sdlc.md) - Complete SDLC guide
-5. [10-Hidden-Insights-and-Non-Obvious-Factors](10-Hidden-Insights-and-Non-Obvious-Factors) - Non-obvious risks
-6. [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap) - Implementation roadmap
+5. [17-Architectural-Perspective-Service-As-Software](17-Architectural-Perspective-Service-As-Software.md) - Complete architectural guide
+6. [10-Hidden-Insights-and-Non-Obvious-Factors](10-Hidden-Insights-and-Non-Obvious-Factors) - Non-obvious risks
+7. [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap) - Implementation roadmap
+
+### For Architects
+
+**Recommended Reading Path:**
+1. [01-Common-Information-and-Model-Overview](01-Common-Information-and-Model-Overview) - Understand the model
+2. [02-What-is-Service-As-Software-and-How-It-Works](02-what-is-service-as-software-and-how-it-works.md) - Technical architecture
+3. [13-CIO-CTO-Technical-Perspective-and-SDLC](13-cio-cto-technical-perspective-and-sdlc.md) - CIO/CTO perspective
+4. [17-Architectural-Perspective-Service-As-Software](17-Architectural-Perspective-Service-As-Software.md) - Complete architectural guide
+5. [14-Legal-and-Regulatory-Perspective-Service-As-Software](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Legal and regulatory requirements
+6. [15-Data-Analytics-ML-Perspective-Service-As-Software](15-Data-Analytics-ML-Perspective-Service-As-Software.md) - Data/ML perspective
+7. [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap) - Implementation roadmap
 
 ### Market Opportunity Focus
 
@@ -467,6 +479,38 @@ For practical implementation guidance:
 
 ---
 
+### [Architectural Perspective: Service-As-Software](17-Architectural-Perspective-Service-As-Software.md)
+
+**Content:** Comprehensive architectural perspective for Service-As-Software covering enterprise, system, and application architecture layers. Addresses model-agnostic design, multi-agent systems, RAG architecture, AI-native security, legacy integration, and skills transformation.
+
+**Key Points:**
+- **Current State (2025-2026)**: AI architecture maturity levels, paradigm shift from tool-centric to outcome-centric architecture
+- **Core Architectural Principles**: Model-agnostic architecture, multi-agent system architecture, RAG architecture, event-driven architecture, AI-native security, legacy system integration
+- **Enterprise Architecture**: Social lens architecture, AI-enhanced EA, compliance-first architecture (EU AI Act, GDPR Article 22, NIS2)
+- **System Architecture**: Reference architecture patterns, infrastructure architecture (GPU, vector DB, streaming, observability)
+- **Skills Transformation**: Traditional vs. Service-As-Software architect skills, emerging roles (AI Architect, Multi-Agent Architect, RAG Architect, AI Security Architect)
+- **Key Challenges**: Multi-agent coordination, model obsolescence (12-18 months), RAG retrieval accuracy (70-85%), cost predictability (3.5x multiplier), legacy integration (40% project failure rate)
+- **Development Directions**: Near-term trends (2026-2027), long-term trends (2028-2030), platform vs. vertical dynamics
+- **Non-Obvious Risks**: Multi-agent coordination debt, RAG retrieval bias, model agnosticism debt, legacy integration complexity, observability blind spots
+
+**Key Statistics:**
+- **Multi-Agent Limit**: ~5 agents where GPU throughput stays flat, P99 latency explodes due to serialized handoffs
+- **Model Shelf Life**: 12-18 months before competitive obsolescence
+- **RAG Accuracy**: 70-85% typical retrieval accuracy
+- **Legacy Integration**: 3.5x more complex than typical SaaS integration
+- **Talent Premium**: 3-5x market rate for AI architecture skills
+- **Integration Failure Rate**: 40% of agentic AI projects fail by 2027 due to legacy systems (Gartner)
+
+**What Architects Need from Other Perspectives:**
+- **CIO/CTO**: Cost management (3.5x multiplier), infrastructure planning, SDLC transformation
+- **Legal**: EU AI Act compliance (risk management, technical documentation, human oversight), GDPR Article 22 (automated decisions), NIS2 compliance
+- **Data/ML**: RAG architecture, MLOps/LLMOps, data quality
+- **Business**: Outcome definition, customer experience, revenue model alignment
+
+**Read this if:** You're an enterprise architect planning, designing, or implementing Service-As-Software systems.
+
+---
+
 ## Key Statistics Summary
 
 ### Market Opportunity
@@ -546,7 +590,8 @@ Documentation Map:
 ├── 13. CIO/CTO Technical Perspective and SDLC
 ├── 14. Legal and Regulatory Perspective
 ├── 15. Data, Analytics & ML Perspective
-└── 16. Client Perspective: Enterprise Buyer Guide
+├── 16. Client Perspective: Enterprise Buyer Guide
+└── 17. Architectural Perspective: Service-As-Software
 ```
 
 This appendix contains all research sources referenced throughout the documentation. Individual chapters reference specific sources inline; this appendix provides the complete bibliography.
@@ -581,11 +626,59 @@ This appendix contains all research sources referenced throughout the documentat
 - [Thoughtful AI: Service as Software: The Biggest Secret in AI for Entrepreneurs](https://www.thoughtful.ai/blog/service-as-software)
 - [LinkedIn: The Rise of Service-as-a-Software](https://www.linkedin.com/pulse/rise-service-as-a-software-software-works-you-richard-kerby-tzuic)
 - [LinkedIn: How to turn services into software with AI](https://www.linkedin.com/posts/jfeilberg_venture-rollups-an-emerging-asset-class-activity-7321498731663540224-BPt_)
-- [McKinsey: Unlocking the value of AI in software development](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/unlocking-the-value-of-ai-in-software-development)
+- [McKinsey: Unlocking value of AI in software development](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/unlocking-the-value-of-ai-in-software-development)
+
+### Architectural & Multi-Agent Sources
+
+- [Catio.tech: Emerging Architecture Patterns for the AI-Native Enterprise](https://www.catio.tech/blog/emerging-architecture-patterns-for-the-ai-native-enterprise)
+- [Stack.ai: Why Multi-Agent Systems Fail at Scale and Why Simplicity Always Wins](https://medium.com/@bijit211987/why-multi-agent-systems-fail-at-scale-and-why-simplicity-always-wins-7490f9002a9b)
+- [Ardoq: The Biggest Trends in Enterprise Architecture (2025)](https://www.ardoq.com/blog/the-biggest-trends-in-ea)
+- [Enterprise Architecture Times: The Role of Enterprise Architects in the Age of AI](https://enterprisearchitecturetimes.com/the-role-of-enterprise-architects-in-the-age-of-ai/)
+- [The Stack: Multi-Agent Systems Architecture for AI](https://thestack.io/multi-agent-systems-architecture-for-ai/)
+- [InfoWorld: Multi-Agent AI Systems Architecture Patterns](https://www.infoworld.com/article/multi-agent-ai-systems-architecture-patterns)
+- [TechTarget: Multi-Agent System Architecture Best Practices](https://www.techtarget.com/searchenterpriseai/multi-agent-system-architecture-best-practices)
+
+### RAG & Vector Database Sources
+
+- [Pinecone: RAG Architecture Patterns](https://www.pinecone.io/learn/rag-architecture-patterns)
+- [Weaviate: Vector Database Architecture for AI](https://weaviate.io/blog/vector-database-architecture)
+- [Qdrant: RAG Implementation Best Practices](https://qdrant.tech/articles/rag-implementation-best-practices)
+- [Datastax: Building RAG Systems at Scale](https://www.datastax.com/blog/building-rag-systems-at-scale)
+- [SingleStore: Vector Database Comparison for RAG](https://www.singlestore.com/blog/vector-database-comparison-for-rag)
+- [Towards Data Science: RAG Architecture Deep Dive](https://towardsdatascience.com/rag-architecture-deep-dive)
+
+### AI Security Sources
+
+- [OWASP: AI Security Risks and Mitigation](https://owasp.org/www-project-ai-security/)
+- [NIST: AI Security Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [Lakera.ai: Prompt Injection Defense](https://www.lakera.ai/blog/prompt-injection-defense)
+- [Trail of Bits: AI Security Research](https://www.trailofbits.com/blog/ai-security-research)
+- [Google Cloud: AI Security Best Practices](https://cloud.google.com/security/ai-security-best-practices)
+- [Microsoft Azure: Responsible AI Security](https://azure.microsoft.com/en-us/responsible-ai-security)
+
+### Event-Driven Architecture Sources
+
+- [Confluent: Event-Driven Architecture for AI Agents](https://www.confluent.io/blog/event-driven-architecture-for-ai-agents)
+- [Red Hat: Event-Driven AI Systems](https://www.redhat.com/en/topics/integration/event-driven-ai-systems)
+- [Apache Kafka: Streaming for AI Applications](https://kafka.apache.org/documentation/#streams)
+- [Databricks: Real-Time AI with Event Streaming](https://www.databricks.com/blog/real-time-ai-with-event-streaming)
+
+### Legacy Integration Sources
+
+- [Gartner: Legacy System Integration for AI](https://www.gartner.com/en/information-technology/insights/legacy-system-integration-for-ai)
+- [Deloitte: Modernizing Legacy Systems for AI](https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/risk/deloitte-nl-risk-modernizing-legacy-systems-for-ai.pdf)
+- [Accenture: AI and Legacy System Integration](https://www.accenture.com/us-en/insights/technology/artificial-intelligence-legacy-systems)
+- [IBM: Hybrid Cloud and AI Integration](https://www.ibm.com/cloud/hybrid-cloud-ai-integration)
+
+### Enterprise Architecture & AI Sources
+
+- [Gartner: Enterprise Architecture for AI](https://www.gartner.com/en/information-technology/insights/enterprise-architecture-for-ai)
+- [Forrester: AI-Native Enterprise Architecture](https://www.forrester.com/report/ai-native-enterprise-architecture)
+- [MIT Sloan: AI and Enterprise Architecture](https://mitsloan.mit.edu/ideas-made-to-matter/ai-and-enterprise-architecture)
+- [Harvard Business Review: Enterprise Architecture in the Age of AI](https://hbr.org/2024/enterprise-architecture-in-the-age-of-ai)
 
 ---
-
 **Last Updated:** 2026-02-08
 **Total Research Sources:** 100+
-**Total Documentation Pages:** 16
-**Total Word Count:** ~85,000 words
+**Total Documentation Pages:** 17
+**Total Word Count:** ~110,000 words
