@@ -35,7 +35,8 @@ Documentation Map:
 ├── 11. Recommendations for Entrepreneurs
 ├── 12. Action Plan and Implementation Roadmap
 ├── 13. CIO/CTO Technical Perspective and SDLC
-└── 14. Legal and Regulatory Perspective
+├── 14. Legal and Regulatory Perspective
+└── 15. Data, Analytics & ML Perspective
 ```
 
 ## Quick Start Guide
@@ -67,6 +68,16 @@ Documentation Map:
 3. [05-Industry-Segments-and-Use-Cases](05-Industry-Segments-and-Use-Cases) - Where it applies
 4. [08-Challenges-and-Solutions](08-Challenges-and-Solutions) - Implementation challenges
 5. [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap) - How to implement
+
+### For Data/Analytics Leaders
+
+**Recommended Reading Path:**
+1. [01-Common-Information-and-Model-Overview](01-Common-Information-and-Model-Overview) - Understand the model
+2. [03-Competitive-Advantages-and-Benefits](03-Competitive-Advantages-and-Benefits) - Why adopt?
+3. [05-Industry-Segments-and-Use-Cases](05-Industry-Segments-and-Use-Cases) - Where it applies
+4. [15-Data-Analytics-ML-Perspective-Service-As-Software](15-Data-Analytics-ML-Perspective-Service-As-Software) - Complete data, analytics, and ML guide
+5. [08-Challenges-and-Solutions](08-Challenges-and-Solutions) - Implementation challenges
+6. [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap) - How to implement
 
 ### For CIOs/CTOs
 
@@ -403,6 +414,35 @@ Documentation Map:
 
 **Read this if:** You need to understand legal and regulatory requirements for Service-As-Software across jurisdictions.
 
+---
+
+### [Data, Analytics & ML Perspective](15-Data-Analytics-ML-Perspective-Service-As-Software.md)
+
+**Content:** Comprehensive perspective for Data/Analytics/ML leaders including data strategy, ML operations, analytics architecture, talent requirements, and business integration.
+
+**Key Points:**
+- **Data Strategy**: Data quality is 10x more critical than traditional software, RAG architecture requirements, synthetic data generation, data governance frameworks
+- **ML Operations**: LLMOps lifecycle management, model evaluation frameworks, continuous monitoring, A/B testing for AI agents, drift detection
+- **Analytics Architecture**: Real-time decision analytics, outcome measurement systems, customer journey analytics, predictive analytics integration
+- **Business Integration**: Data culture transformation, business-ML alignment, outcome metrics definition, data democratization
+- **Talent Requirements**: ML engineers, data engineers, AI product managers, prompt engineers, ML security specialists
+
+**Key Realities:**
+- Data quality impact: 10x more critical than traditional software
+- RAG architecture costs: 30-40% of total ML infrastructure
+- Model evaluation: 50-70% of ML development time
+- Data governance: $100K-500K/year for enterprise
+- Talent premium: 2-4x market rate for ML/AI skills
+
+**What Data/Analytics Needs from Business:**
+- Clear outcome definitions and success metrics
+- Access to domain experts and business processes
+- Investment in data infrastructure and quality
+- Support for experimentation and iteration
+- Executive sponsorship for data-driven culture
+
+**Read this if:** You're a Data/Analytics/ML leader planning, implementing, or scaling Service-As-Software capabilities.
+
 ## Key Statistics Summary
 
 ### Market Opportunity
@@ -471,6 +511,7 @@ Documentation Map:
 - **Investment Analysis:** Read chapters 01, 04, 06, 09, 10
 - **Implementation:** Read chapters 02, 08, 12
 - **CIO/CTO Technical:** Read chapters 01, 02, 08, 13, 10, 12
+- **Data/Analytics/ML:** Read chapters 01, 03, 05, 15, 08, 12
 
 ### Updates
 This documentation was created in February 2026. Service-As-Software is a rapidly evolving field. For the most current information, consider:
@@ -494,6 +535,6 @@ This research documentation is provided for educational and informational purpos
 ---
 
 **Last Updated:** 2026-02-08
-**Total Research Sources:** 70+
-**Total Documentation Pages:** 14
-**Total Word Count:** ~65,000 words
+**Total Research Sources:** 100+
+**Total Documentation Pages:** 15
+**Total Word Count:** ~75,000 words

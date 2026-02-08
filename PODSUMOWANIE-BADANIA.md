@@ -25,6 +25,8 @@ Wszystkie cele badania zostały zrealizowane zgodnie z planem:
 ✅ **Zalecenia dla chcących zbudować taki biznes** - [[11-Recommendations-for-Entrepreneurs]]
 ✅ **Plan działania i mapa drogowa wdrożenia** - [[12-Action-Plan-and-Implementation-Roadmap]]
 ✅ **Perspektywa CIO/CTO - SDLC i techniczne aspekty** - [[13-CIO-CTO-Technical-Perspective-and-SDLC]]
+✅ **Perspektywa prawna i regulacyjna** - [[14-Legal-and-Regulatory-Perspective-Service-As-Software]]
+✅ **Perspektywa Data/Analytics/ML** - [[15-Data-Analytics-ML-Perspective-Service-As-Software]]
 ✅ **Kompletna dokumentacja z indeksem** - [[INDEX]]
 
 ## Metodologia Badania
@@ -36,15 +38,17 @@ Wszystkie cele badania zostały zrealizowane zgodnie z planem:
 - **Całkowita liczba narzędzi MCP:** 12 równoległych zapytań
 
 ### Źródła Informacji
-- **Liczba przeanalizowanych źródeł:** 70+
+- **Liczba przeanalizowanych źródeł:** 100+
 - **Blogi VC:** Foundation Capital, Madrona, Decibel VC
 - **Publikacje techniczne:** Thoughtworks, SmarterTech, Kellton, Medium
 - **Raporty branżowe:** EY, McKinsey, Cognizant, Menlo Ventures
 - **Artykuły branżowe:** LinkedIn, Medium, Substack
 - **Źródła CIO/CTO:** Galileo AI, Forbes, Seldon, VentureBeat, Checkmarx, Harness, Sierra AI
+- **Źródła prawne:** EU AI Act, NIST, FCA, IAPP, GDPR
+- **Źródła Data/ML:** Google AI, Microsoft Research, OpenAI, Anthropic, ArXiv
 
 ### Struktura Dokumentacji
-14 rozdziałów w formacie Markdown z:
+15 rozdziałów w formacie Markdown z:
 - Metadane YAML (title, created, status, researcher, language, level)
 - Format linkowania Obsidian.md ([link](nazwa-wyświetlana))
 - Cytowanie źródeł
@@ -289,7 +293,7 @@ Service-As-Software:
 
 ## Struktura Dokumentacji
 
-Wszystkie 14 plików zostało utworzonych w katalogu:
+Wszystkie 15 plików zostało utworzonych w katalogu:
 
 ```
 Service-As-Software/
@@ -307,6 +311,8 @@ Service-As-Software/
 ├── 11-recommendations-for-entrepreneurs.md
 ├── 12-action-plan-and-implementation-roadmap.md
 ├── 13-cio-cto-technical-perspective-and-sdlc.md
+├── 14-Legal-and-Regulatory-Perspective-Service-As-Software.md
+├── 15-Data-Analytics-ML-Perspective-Service-As-Software.md
 └── INDEX.md
 ```
 
@@ -319,12 +325,14 @@ Service-As-Software/
 ✅ Dodano metadane YAML do każdego pliku
 ✅ Zacytowano wszystkie źródła
 ✅ Dodano perspektywę CIO/CTO z kompletnym SDLC i aspektami technicznymi
+✅ Dodano perspektywę prawną i regulacyjną
+✅ Dodano perspektywę Data/Analytics/ML
 
 ### Całkowita Ilość
-- **Liczba plików dokumentacyjnych:** 14
-- **Szacowana liczba słów:** ~65,000 słów
-- **Liczba przeanalizowanych źródeł:** 70+
-- **Liczba narzędzi MCP użytych:** 24+ zapytań równoległych
+- **Liczba plików dokumentacyjnych:** 15
+- **Szacowana liczba słów:** ~75,000 słów
+- **Liczba przeanalizowanych źródeł:** 100+
+- **Liczba narzędzi MCP użytych:** 30+ zapytań równoległych
 
 ### Jakość Danych
 - **Różnorodne źródła:** VC, blogi techniczne, raporty branżowe
@@ -346,6 +354,12 @@ Zacznij od [[INDEX.md]] i przejdź do [[08-Challenges-and-Solutions]]
 **Dla CIO/CTO:**
 Zacznij od [[INDEX.md]] i przeczytaj [[13-CIO-CTO-Technical-Perspective-and-SDLC]]
 
+**Dla Prawników/Compliance:**
+Zacznij od [[INDEX.md]] i przeczytaj [[14-Legal-and-Regulatory-Perspective-Service-As-Software]]
+
+**Dla Data/Analytics/ML:**
+Zacznij od [[INDEX.md]] i przeczytaj [[15-Data-Analytics-ML-Perspective-Service-As-Software]]
+
 ## Wnioski Końcowe
 
 Service-As-Software to fundamentalna zmiana w tym, jak oprogramowanie tworzy wartość biznesową. Reprezentuje przeskok od dostarczania narzędzi do dostarczania zakończonych wyników przez autonomiczne systemy AI.
@@ -358,6 +372,8 @@ Service-As-Software to fundamentalna zmiana w tym, jak oprogramowanie tworzy war
 5. Wiele nieznanych - przyszłość niepewna
 6. Duża szansa dla przedsiębiorców - pionierska przewaga
 7. Perspektywa CIO/CTO - kluczowe dla sukcesu technicznego, Agentic SDLC, nowe wyzwania security, MLOps/LLMOps, talent premium
+8. Perspektywa prawna - kompleksowe ramy regulacyjne, AI Act, GDPR, wymagania zgodności, koszt compliance $50K-500K/year
+9. Perspektywa Data/Analytics/ML - jakość danych 10x ważniejsza, RAG architecture, LLMOps, model evaluation, talent premium 2-4x
 
 Dokumentacja została przygotowana w sposób systematyczny, z linkami między rozdziałami, cytatowaniem źródeł i formatowaniem Obsidian.md dla łatwej nawigacji.
 
