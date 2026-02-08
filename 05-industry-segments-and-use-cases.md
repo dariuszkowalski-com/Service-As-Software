@@ -415,6 +415,6 @@ language: "en"
 
 ## Next Steps
 
-- [06-VC-Investment-Perspective](06-VC-Investment-Perspective.md) - Why VCs are investing
-- [07-How-to-Win-with-Service-As-Software](07-How-to-Win-with-Service-As-Software.md) - Strategies for success
-- [08-Challenges-and-Solutions](08-Challenges-and-Solutions.md) - Overcoming obstacles
+- [06-vc-investment-perspective.md](06-vc-investment-perspective.md) - Why VCs are investing
+- [07-how-to-win-with-service-as-software.md](07-how-to-win-with-service-as-software.md) - Strategies for success
+- [08-challenges-and-solutions.md](08-challenges-and-solutions.md) - Overcoming obstacles

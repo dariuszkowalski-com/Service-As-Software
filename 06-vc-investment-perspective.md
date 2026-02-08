@@ -393,6 +393,6 @@ Outcome Metrics:
 
 ## Next Steps
 
-- [07-How-to-Win-with-Service-As-Software](07-How-to-Win-with-Service-As-Software.md) - Strategies for success
-- [08-Challenges-and-Solutions](08-Challenges-and-Solutions.md) - Overcoming obstacles
-- [09-What-We-Still-Dont-Know](09-What-We-Still-Dont-Know.md) - Unknowns and uncertainties
+- [07-how-to-win-with-service-as-software.md](07-how-to-win-with-service-as-software.md) - Strategies for success
+- [08-challenges-and-solutions.md](08-challenges-and-solutions.md) - Overcoming obstacles
+- [09-what-we-still-dont-know.md](09-what-we-still-dont-know.md) - Unknowns and uncertainties

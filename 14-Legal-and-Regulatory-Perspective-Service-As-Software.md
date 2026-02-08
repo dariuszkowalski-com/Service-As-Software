@@ -1375,7 +1375,10 @@ The Service-As-Software model represents a fundamental shift in how technology c
 
 ## Next Steps
 
-- [INDEX.md](README.md) - Complete documentation index
+- [README.md](README.md) - Complete documentation index
 - [01-common-information-and-model-overview.md](01-common-information-and-model-overview.md) - Model overview
 - [02-what-is-service-as-software-and-how-it-works.md](02-what-is-service-as-software-and-how-it-works.md) - How SaS works
 - [13-cio-cto-technical-perspective-and-sdlc.md](13-cio-cto-technical-perspective-and-sdlc.md) - CIO/CTO technical perspective
+- [15-Data-Analytics-ML-Perspective-Service-As-Software.md](15-Data-Analytics-ML-Perspective-Service-As-Software.md) - Data and analytics perspective
+- [16-Client-Perspective-Enterprise-Buyer-Guide.md](16-Client-Perspective-Enterprise-Buyer-Guide.md) - Enterprise buyer guide
+- [17-Architectural-Perspective-Service-As-Software.md](17-Architectural-Perspective-Service-As-Software.md) - Architectural perspective

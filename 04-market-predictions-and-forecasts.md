@@ -251,6 +251,6 @@ AI liability frameworks are still emerging across jurisdictions, creating implem
 
 ## Next Steps
 
-- [05-Industry-Segments-and-Use-Cases](05-Industry-Segments-and-Use-Cases.md) - Where this model applies
-- [06-VC-Investment-Perspective](06-VC-Investment-Perspective.md) - Why VCs are investing
-- [07-How-to-Win-with-Service-As-Software](07-How-to-Win-with-Service-As-Software.md) - Strategies for success
+- [05-industry-segments-and-use-cases.md](05-industry-segments-and-use-cases.md) - Where this model applies
+- [06-vc-investment-perspective.md](06-vc-investment-perspective.md) - Why VCs are investing
+- [07-how-to-win-with-service-as-software.md](07-how-to-win-with-service-as-software.md) - Strategies for success

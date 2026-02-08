@@ -1999,12 +1999,12 @@ Governance Framework:
 
 ## Next Steps
 
-- [INDEX.md](README.md) - Complete documentation index
-- [01-Common-Information-and-Model-Overview](01-common-information-and-model-overview.md) - Understanding Service-As-Software fundamentals
-- [13-CIO-CTO-Technical-Perspective-and-SDLC](13-cio-cto-technical-perspective-and-sdlc.md) - Technical implementation details
-- [14-Legal-and-Regulatory-Perspective-Service-As-Software](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Legal and regulatory requirements
-- [15-Data-Analytics-ML-Perspective-Service-As-Software](15-Data-Analytics-ML-Perspective-Service-As-Software.md) - Data and analytics perspective
-- [12-Action-Plan-and-Implementation-Roadmap](12-action-plan-and-implementation-roadmap.md) - Implementation roadmap for providers
+- [README.md](README.md) - Complete documentation index
+- [01-common-information-and-model-overview.md](01-common-information-and-model-overview.md) - Understanding Service-As-Software fundamentals
+- [13-cio-cto-technical-perspective-and-sdlc.md](13-cio-cto-technical-perspective-and-sdlc.md) - Technical implementation details
+- [14-Legal-and-Regulatory-Perspective-Service-As-Software.md](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Legal and regulatory requirements
+- [15-Data-Analytics-ML-Perspective-Service-As-Software.md](15-Data-Analytics-ML-Perspective-Service-As-Software.md) - Data and analytics perspective
+- [12-action-plan-and-implementation-roadmap.md](12-action-plan-and-implementation-roadmap.md) - Implementation roadmap for providers
 
 ---
 

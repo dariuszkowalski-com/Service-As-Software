@@ -834,6 +834,6 @@ Market Timing Assessment:
 
 ## Next Steps
 
-- [09-What-We-Still-Dont-Know](09-What-We-Still-Dont-Know.md) - Unknowns and uncertainties
-- [10-Hidden-Insights-and-Non-Obvious-Factors](10-Hidden-Insights-and-Non-Obvious-Factors.md) - Deep insights
-- [11-Recommendations-for-Entrepreneurs](11-Recommendations-for-Entrepreneurs.md) - Practical advice
+- [09-what-we-still-dont-know.md](09-what-we-still-dont-know.md) - Unknowns and uncertainties
+- [10-hidden-insights-and-non-obvious-factors.md](10-hidden-insights-and-non-obvious-factors.md) - Deep insights
+- [11-recommendations-for-entrepreneurs.md](11-recommendations-for-entrepreneurs.md) - Practical advice

@@ -589,6 +589,6 @@ Growth Trajectory:
 
 ## Next Steps
 
-- [08-Challenges-and-Solutions](08-Challenges-and-Solutions.md) - Overcoming obstacles
-- [09-What-We-Still-Dont-Know](09-What-We-Still-Dont-Know.md) - Unknowns and uncertainties
-- [10-Hidden-Insights-and-Non-Obvious-Factors](10-Hidden-Insights-and-Non-Obvious-Factors.md) - Deep insights
+- [08-challenges-and-solutions.md](08-challenges-and-solutions.md) - Overcoming obstacles
+- [09-what-we-still-dont-know.md](09-what-we-still-dont-know.md) - Unknowns and uncertainties
+- [10-hidden-insights-and-non-obvious-factors.md](10-hidden-insights-and-non-obvious-factors.md) - Deep insights

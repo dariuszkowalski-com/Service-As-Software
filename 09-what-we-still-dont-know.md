@@ -527,6 +527,6 @@ Will incumbent SaaS companies adapt or be disrupted?
 
 ## Next Steps
 
-- [10-Hidden-Insights-and-Non-Obvious-Factors](10-Hidden-Insights-and-Non-Obvious-Factors.md) - Deep insights
-- [11-Recommendations-for-Entrepreneurs](11-Recommendations-for-Entrepreneurs.md) - Practical advice
-- [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap.md) - Execution guide
+- [10-hidden-insights-and-non-obvious-factors.md](10-hidden-insights-and-non-obvious-factors.md) - Deep insights
+- [11-recommendations-for-entrepreneurs.md](11-recommendations-for-entrepreneurs.md) - Practical advice
+- [12-action-plan-and-implementation-roadmap.md](12-action-plan-and-implementation-roadmap.md) - Execution guide

@@ -1085,9 +1085,8 @@ Workforce Transformation:
 
 ## Next Steps
 
-- [README](README.md) - Complete documentation index
-- [14-Recommendations-for-Entrepreneurs](14-Recommendations-for-Entrepreneurs.md) - Business strategy guidance
-- [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap.md) - Implementation roadmap
-- [08-Challenges-and-Solutions](08-Challenges-and-Solutions.md) - Overcoming obstacles
-- [09-What-We-Still-Dont-Know](09-What-We-Still-Dont-Know.md) - Unknowns and uncertainties
-- [10-Hidden-Insights-and-Non-Obvious-Factors](10-Hidden-Insights-and-Non-Obvious-Factors.md) - Non-obvious risks
+- [README.md](README.md) - Complete documentation index
+- [14-Legal-and-Regulatory-Perspective-Service-As-Software.md](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Legal and regulatory perspective
+- [15-Data-Analytics-ML-Perspective-Service-As-Software.md](15-Data-Analytics-ML-Perspective-Service-As-Software.md) - Data and analytics perspective
+- [16-Client-Perspective-Enterprise-Buyer-Guide.md](16-Client-Perspective-Enterprise-Buyer-Guide.md) - Enterprise buyer guide
+- [17-Architectural-Perspective-Service-As-Software.md](17-Architectural-Perspective-Service-As-Software.md) - Architectural perspective

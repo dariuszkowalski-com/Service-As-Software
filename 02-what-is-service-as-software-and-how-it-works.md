@@ -249,6 +249,6 @@ A critical component of Service-as-Software is the trust layer:
 
 ## Next Steps
 
-- [03-Competitive-Advantages-and-Benefits](03-Competitive-Advantages-and-Benefits.md) - Why this model creates competitive advantage
-- [04-Market-Predictions-and-Forecasts](04-Market-Predictions-and-Forecasts.md) - Market size and growth projections
-- [05-Industry-Segments-and-Use-Cases](05-Industry-Segments-and-Use-Cases.md) - Where this model applies
+- [03-competitive-advantages-and-benefits.md](03-competitive-advantages-and-benefits.md) - Why this model creates competitive advantage
+- [04-market-predictions-and-forecasts.md](04-market-predictions-and-forecasts.md) - Market size and growth projections
+- [05-industry-segments-and-use-cases.md](05-industry-segments-and-use-cases.md) - Where this model applies

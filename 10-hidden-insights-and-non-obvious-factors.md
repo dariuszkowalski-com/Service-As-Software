@@ -416,6 +416,6 @@ Service-as-Software exits may follow different patterns than traditional SaaS.
 
 ## Next Steps
 
-- [11-Recommendations-for-Entrepreneurs](11-Recommendations-for-Entrepreneurs.md) - Practical advice
-- [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap.md) - Execution guide
-- [00-Research-Plan](00-research-plan.md) - Original research plan
+- [11-recommendations-for-entrepreneurs.md](11-recommendations-for-entrepreneurs.md) - Practical advice
+- [12-action-plan-and-implementation-roadmap.md](12-action-plan-and-implementation-roadmap.md) - Execution guide
+- [00-research-plan.md](00-research-plan.md) - Original research plan

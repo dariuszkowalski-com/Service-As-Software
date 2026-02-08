@@ -255,6 +255,6 @@ Clear liability allocation, robust data protection, and AI-specific risk mitigat
 
 ## Next Steps
 
-- [04-Market-Predictions-and-Forecasts](04-Market-Predictions-and-Forecasts.md) - Market size and growth projections
-- [05-Industry-Segments-and-Use-Cases](05-Industry-Segments-and-Use-Cases.md) - Where this model applies
-- [06-VC-Investment-Perspective](06-VC-Investment-Perspective.md) - Why VCs are investing
+- [04-market-predictions-and-forecasts.md](04-market-predictions-and-forecasts.md) - Market size and growth projections
+- [05-industry-segments-and-use-cases.md](05-industry-segments-and-use-cases.md) - Where this model applies
+- [06-vc-investment-perspective.md](06-vc-investment-perspective.md) - Why VCs are investing
