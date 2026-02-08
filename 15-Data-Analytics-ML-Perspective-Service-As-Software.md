@@ -9,7 +9,7 @@ language: "en"
 
 # 15 - Data, Analytics & ML Perspective: Service-As-Software
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 
@@ -1909,10 +1909,10 @@ The Service-As-Software model creates unprecedented opportunity for data leaders
 
 ## Next Steps
 
-- [[INDEX.md](INDEX.md) - Complete documentation index
-- [[01-common-information-and-model-overview.md](01-common-information-and-model-overview.md) - Model overview
-- [[02-what-is-service-as-software-and-how-it-works.md](02-what-is-service-as-software-and-how-it-works.md) - How SaS works
-- [[13-cio-cto-technical-perspective-and-sdlc.md](13-cio-cto-technical-perspective-and-sdlc.md) - CIO/CTO technical perspective
-- [[14-Legal-and-Regulatory-Perspective-Service-As-Software.md](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Legal and regulatory perspective
+- [INDEX.md](README.md) - Complete documentation index
+- [01-common-information-and-model-overview.md](01-common-information-and-model-overview.md) - Model overview
+- [02-what-is-service-as-software-and-how-it-works.md](02-what-is-service-as-software-and-how-it-works.md) - How SaS works
+- [13-cio-cto-technical-perspective-and-sdlc.md](13-cio-cto-technical-perspective-and-sdlc.md) - CIO/CTO technical perspective
+- [14-Legal-and-Regulatory-Perspective-Service-As-Software.md](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Legal and regulatory perspective
 - [[12-action-plan-and-implementation-roadmap.md](12-action-plan-and-implementation-roadmap.md) - Implementation roadmap
 - [[08-challenges-and-solutions.md](08-challenges-and-solutions.md) - Overcoming obstacles

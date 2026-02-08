@@ -8,7 +8,7 @@ language: "en"
 
 # 03 - Competitive Advantages and Benefits
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Why Service-As-Software Creates Competitive Advantage
 
@@ -16,7 +16,7 @@ language: "en"
 
 The fundamental advantage of Service-as-Software is incentive alignment:
 
-> "In traditional SaaS, the vendor gets paid regardless of whether the customer achieves their goals. In Service-as-Software, the vendor only succeeds when the customer succeeds." — [[Foundation Capital: AI leads a service as software paradigm shift|https://foundationcapital.com/ai-service-as-software/]
+> "In traditional SaaS, the vendor gets paid regardless of whether the customer achieves their goals. In Service-as-Software, the vendor only succeeds when the customer succeeds." — [Foundation Capital: AI leads a service as software paradigm shift](https://foundationcapital.com/ai-service-as-software/)
 
 **Traditional SaaS misalignment:**
 - Vendor incentive: Maximize seats/subscriptions
@@ -65,7 +65,7 @@ Service-as-Software TCO:
 
 ### 4. Faster Time to Value
 
-> "Service-as-Software delivers value from day one. There's no lengthy implementation, no user adoption curve, and no training required." — [SmarterTech: Service as Software (SaS](https://www.smartertech.com/articles/service-as-software): The AI Model Replacing SaaS)
+> "Service-as-Software delivers value from day one. There's no lengthy implementation, no user adoption curve, and no training required." — [SmarterTech: Service as Software (SaS): The AI Model Replacing SaaS](https://www.smartertech.com/articles/service-as-software)
 
 | Phase | SaaS Timeline | Service-as-Software Timeline |
 |-------|--------------|------------------------------|
@@ -219,7 +219,7 @@ Service-as-Software democratizes access to sophisticated capabilities:
 
 Companies that adopt Service-as-Software early can build significant competitive advantages:
 
-> "The companies that master Service-as-Software will have a massive advantage. They'll be able to deliver services faster, cheaper, and better than competitors stuck in traditional models." — [[Madrona: Service as Software: The Foundation of Outcome Delivery in Applied AI|https://www.madrona.com/service-as-software-the-foundation-of-outcome-delivery-in-applied-ai/]
+> "The companies that master Service-as-Software will have a massive advantage. They'll be able to deliver services faster, cheaper, and better than competitors stuck in traditional models." — [Madrona: Service as Software: The Foundation of Outcome Delivery in Applied AI](https://www.madrona.com/service-as-software-the-foundation-of-outcome-delivery-in-applied-ai/)
 
 **How to win:**
 1. **Move first**: Early adopters capture market share
@@ -294,11 +294,11 @@ Companies that adopt Service-as-Software early can build significant competitive
 - **Open Source Compliance**: Compliance with open source licenses for AI models
 
 **See Also:**
-- [[14-Legal-and-Regulatory-Perspective-Service-As-Software]] - Comprehensive legal and regulatory analysis
+- [14-Legal-and-Regulatory-Perspective-Service-As-Software](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Comprehensive legal and regulatory analysis
 ---
 
 ## Next Steps
 
-- [[04-Market-Predictions-and-Forecasts]] - Market size and growth projections
-- [[05-Industry-Segments-and-Use-Cases]] - Where this model applies
-- [[06-VC-Investment-Perspective]] - Why VCs are investing
+- [04-Market-Predictions-and-Forecasts](04-Market-Predictions-and-Forecasts.md) - Market size and growth projections
+- [05-Industry-Segments-and-Use-Cases](05-Industry-Segments-and-Use-Cases.md) - Where this model applies
+- [06-VC-Investment-Perspective](06-VC-Investment-Perspective.md) - Why VCs are investing

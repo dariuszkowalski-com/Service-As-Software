@@ -12,33 +12,6 @@ language: "en"
 
 This comprehensive documentation provides an in-depth analysis of Service-As-Software (SaS) model, where software delivers completed services rather than just providing tools. The research covers all aspects of this emerging business model, from fundamentals to practical implementation guidance.
 
-**Research Methodology:**
-- Parallel research using multiple MCP tools (Tavily, Exa, Serper)
-- Analysis of 50+ sources across VC blogs, tech publications, and industry reports
-- Systematic documentation in 16 focused chapters
-- Cross-referenced content with Obsidian-style linking
-
-**Documentation Structure:**
-```
-Documentation Map:
-├── 00. Research Plan
-├── 01. Common Information & Model Overview
-├── 02. What is Service-As-Software and How It Works
-├── 03. Competitive Advantages and Benefits
-├── 04. Market Predictions and Forecasts
-├── 05. Industry Segments and Use Cases
-├── 06. VC Investment Perspective
-├── 07. How to Win with Service-As-Software
-├── 08. Challenges and Solutions
-├── 09. What We Still Don't Know
-├── 10. Hidden Insights and Non-Obvious Factors
-├── 11. Recommendations for Entrepreneurs
-├── 12. Action Plan and Implementation Roadmap
-├── 13. CIO/CTO Technical Perspective and SDLC
-├── 14. Legal and Regulatory Perspective
-├── 15. Data, Analytics & ML Perspective
-└── 16. Client Perspective: Enterprise Buyer Guide
-```
 
 ## Quick Start Guide
 
@@ -537,6 +510,34 @@ This research documentation is provided for educational and informational purpos
 ---
 
 ## Research Appendix: Sources
+
+**Research Methodology:**
+- Parallel research using multiple MCP tools (Tavily, Exa, Serper)
+- Analysis of 50+ sources across VC blogs, tech publications, and industry reports
+- Systematic documentation in 16 focused chapters
+- Cross-referenced content with Obsidian-style linking
+
+**Documentation Structure:**
+```
+Documentation Map:
+├── 00. Research Plan
+├── 01. Common Information & Model Overview
+├── 02. What is Service-As-Software and How It Works
+├── 03. Competitive Advantages and Benefits
+├── 04. Market Predictions and Forecasts
+├── 05. Industry Segments and Use Cases
+├── 06. VC Investment Perspective
+├── 07. How to Win with Service-As-Software
+├── 08. Challenges and Solutions
+├── 09. What We Still Don't Know
+├── 10. Hidden Insights and Non-Obvious Factors
+├── 11. Recommendations for Entrepreneurs
+├── 12. Action Plan and Implementation Roadmap
+├── 13. CIO/CTO Technical Perspective and SDLC
+├── 14. Legal and Regulatory Perspective
+├── 15. Data, Analytics & ML Perspective
+└── 16. Client Perspective: Enterprise Buyer Guide
+```
 
 This appendix contains all research sources referenced throughout the documentation. Individual chapters reference specific sources inline; this appendix provides the complete bibliography.
 

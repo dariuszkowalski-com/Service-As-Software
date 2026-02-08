@@ -8,7 +8,7 @@ language: "en"
 
 # 13 - CIO/CTO Technical Perspective and SDLC
 
->**Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+>**Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 - [Managing Realtime AI Cost in Production: A Practical Guide - Seldon](https://www.seldon.io/managing-realtime-ai-cost-in-production-a-practical-guide)
@@ -1124,9 +1124,9 @@ Workforce Transformation:
 
 ## Next Steps
 
-- [[INDEX.md](INDEX.md) - Complete documentation index
-- [[14-Recommendations-for-Entrepreneurs]] - Business strategy guidance
-- [[12-Action-Plan-and-Implementation-Roadmap]] - Implementation roadmap
-- [[08-Challenges-and-Solutions]] - Overcoming obstacles
-- [[09-What-We-Still-Dont-Know]] - Unknowns and uncertainties
-- [[10-Hidden-Insights-and-Non-Obvious-Factors]] - Non-obvious risks
+- [README](README.md) - Complete documentation index
+- [14-Recommendations-for-Entrepreneurs](14-Recommendations-for-Entrepreneurs.md) - Business strategy guidance
+- [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap.md) - Implementation roadmap
+- [08-Challenges-and-Solutions](08-Challenges-and-Solutions.md) - Overcoming obstacles
+- [09-What-We-Still-Dont-Know](09-What-We-Still-Dont-Know.md) - Unknowns and uncertainties
+- [10-Hidden-Insights-and-Non-Obvious-Factors](10-Hidden-Insights-and-Non-Obvious-Factors.md) - Non-obvious risks

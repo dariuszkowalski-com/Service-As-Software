@@ -8,7 +8,7 @@ language: "en"
 
 # 12 - Action Plan and Implementation Roadmap
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 
@@ -705,4 +705,4 @@ Implementation Roadmap Overview:
 ## Complete Documentation
 
 - [00-research-plan.md](00-research-plan.md) - Original research plan
-- [INDEX.md](INDEX.md) - Complete documentation index
+- [INDEX.md](README.md) - Complete documentation index

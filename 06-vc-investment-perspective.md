@@ -8,7 +8,7 @@ language: "en"
 
 # 06 - VC Investment Perspective
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Why VCs Are Investing in Service-As-Software
 
@@ -103,7 +103,7 @@ Service-as-Software companies can build deeper moats:
 
 ### 5. Outcome-Based Pricing Alignment
 
-> "Outcome-based pricing aligns incentives in a way traditional SaaS never could. When customers only pay for successful outcomes, everyone wins." — [[Madrona: Service as Software: The Foundation of Outcome Delivery in Applied AI|https://www.madrona.com/service-as-software-the-foundation-of-outcome-delivery-in-applied-ai/]
+> "Outcome-based pricing aligns incentives in a way traditional SaaS never could. When customers only pay for successful outcomes, everyone wins." — [Madrona: Service as Software: The Foundation of Outcome Delivery in Applied AI](https://www.madrona.com/service-as-software-the-foundation-of-outcome-delivery-in-applied-ai/)
 
 **Why this matters to VCs:**
 - **Customer success = Company success**: Natural alignment
@@ -399,6 +399,6 @@ Outcome Metrics:
 
 ## Next Steps
 
-- [[07-How-to-Win-with-Service-As-Software]] - Strategies for success
-- [[08-Challenges-and-Solutions]] - Overcoming obstacles
-- [[09-What-We-Still-Dont-Know]] - Unknowns and uncertainties
+- [07-How-to-Win-with-Service-As-Software](07-How-to-Win-with-Service-As-Software.md) - Strategies for success
+- [08-Challenges-and-Solutions](08-Challenges-and-Solutions.md) - Overcoming obstacles
+- [09-What-We-Still-Dont-Know](09-What-We-Still-Dont-Know.md) - Unknowns and uncertainties

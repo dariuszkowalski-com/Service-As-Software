@@ -8,7 +8,7 @@ language: "en"
 
 # 01 - Common Information and Model Overview
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## What is Service-As-Software?
 

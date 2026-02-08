@@ -8,7 +8,7 @@ language: "en"
 
 # 07 - How to Win with Service-As-Software
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Strategic Framework for Winning
 
@@ -36,7 +36,7 @@ Winning with Service-As-Software:
 
 ### 1.1 Define Crystal-Clear Outcomes
 
-> "The most successful Service-as-Software companies start with a laser focus on specific, measurable outcomes that customers care deeply about." — [[Foundation Capital: AI leads a service as software paradigm shift|https://foundationcapital.com/ai-service-as-software/]
+> "The most successful Service-as-Software companies start with a laser focus on specific, measurable outcomes that customers care deeply about." — [Foundation Capital: AI leads a service as software paradigm shift](https://foundationcapital.com/ai-service-as-software/)
 
 **Outcome Definition Framework:**
 
@@ -668,6 +668,6 @@ Growth Trajectory:
 
 ## Next Steps
 
-- [[08-Challenges-and-Solutions]] - Overcoming obstacles
-- [[09-What-We-Still-Dont-Know]] - Unknowns and uncertainties
-- [[10-Hidden-Insights-and-Non-Obvious-Factors]] - Deep insights
+- [08-Challenges-and-Solutions](08-Challenges-and-Solutions.md) - Overcoming obstacles
+- [09-What-We-Still-Dont-Know](09-What-We-Still-Dont-Know.md) - Unknowns and uncertainties
+- [10-Hidden-Insights-and-Non-Obvious-Factors](10-Hidden-Insights-and-Non-Obvious-Factors.md) - Deep insights

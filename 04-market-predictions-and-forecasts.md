@@ -8,7 +8,7 @@ language: "en"
 
 # 04 - Market Predictions and Forecasts
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Market Size and Growth Projections
 
@@ -162,7 +162,7 @@ Service-as-Software will create entirely new service categories:
 | 2027 | $50-70B | 800-1,000 | $60-80M |
 | 2028 | $80-100B | 1,000-1,200 | $70-90M |
 
-> "We expect Service-as-Software to attract 20-30% of all VC investment in software by 2028." — [[Madrona: Service as Software: The Foundation of Outcome Delivery in Applied AI|https://www.madrona.com/service-as-software-the-foundation-of-outcome-delivery-in-applied-ai/]
+> "We expect Service-as-Software to attract 20-30% of all VC investment in software by 2028." — [Madrona: Service as Software: The Foundation of Outcome Delivery in Applied AI](https://www.madrona.com/service-as-software-the-foundation-of-outcome-delivery-in-applied-ai/)
 
 ### Investment Focus Areas
 
@@ -283,11 +283,11 @@ Service-as-Software will create entirely new service categories:
 - **Automated Compliance**: Companies building compliance automation tools can offer competitive advantage
 
 **See Also:**
-- [[14-Legal-and-Regulatory-Perspective-Service-As-Software]] - Comprehensive legal and regulatory analysis
+- [14-Legal-and-Regulatory-Perspective-Service-As-Software](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Comprehensive legal and regulatory analysis
 ---
 
 ## Next Steps
 
-- [[05-Industry-Segments-and-Use-Cases]] - Where this model applies
-- [[06-VC-Investment-Perspective]] - Why VCs are investing
-- [[07-How-to-Win-with-Service-As-Software]] - Strategies for success
+- [05-Industry-Segments-and-Use-Cases](05-Industry-Segments-and-Use-Cases.md) - Where this model applies
+- [06-VC-Investment-Perspective](06-VC-Investment-Perspective.md) - Why VCs are investing
+- [07-How-to-Win-with-Service-As-Software](07-How-to-Win-with-Service-As-Software.md) - Strategies for success

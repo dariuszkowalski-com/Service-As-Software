@@ -8,7 +8,7 @@ language: "en"
 
 # 10 - Hidden Insights and Non-Obvious Factors
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 Many aspects of Service-As-Software are not immediately obvious but critically important for success. These hidden insights can determine the difference between thriving and failing in this emerging market.
@@ -416,6 +416,6 @@ Service-as-Software exits may follow different patterns than traditional SaaS.
 
 ## Next Steps
 
-- [[11-Recommendations-for-Entrepreneurs]] - Practical advice
-- [[12-Action-Plan-and-Implementation-Roadmap]] - Execution guide
-- [[00-Research-Plan]] - Original research plan
+- [11-Recommendations-for-Entrepreneurs](11-Recommendations-for-Entrepreneurs.md) - Practical advice
+- [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap.md) - Execution guide
+- [00-Research-Plan](00-research-plan.md) - Original research plan

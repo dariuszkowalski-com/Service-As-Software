@@ -8,7 +8,7 @@ language: "en"
 
 # 05 - Industry Segments and Use Cases
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Industry Segments Most Likely to Adopt Service-As-Software
 
@@ -415,6 +415,6 @@ language: "en"
 
 ## Next Steps
 
-- [[06-VC-Investment-Perspective]] - Why VCs are investing
-- [[07-How-to-Win-with-Service-As-Software]] - Strategies for success
-- [[08-Challenges-and-Solutions]] - Overcoming obstacles
+- [06-VC-Investment-Perspective](06-VC-Investment-Perspective.md) - Why VCs are investing
+- [07-How-to-Win-with-Service-As-Software](07-How-to-Win-with-Service-As-Software.md) - Strategies for success
+- [08-Challenges-and-Solutions](08-Challenges-and-Solutions.md) - Overcoming obstacles

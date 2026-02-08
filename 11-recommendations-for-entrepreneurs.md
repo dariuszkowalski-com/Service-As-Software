@@ -8,7 +8,7 @@ language: "en"
 
 # 11 - Recommendations for Entrepreneurs
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 
@@ -583,4 +583,4 @@ Exit Preparation Checklist:
 
 - [12-action-plan-and-implementation-roadmap.md](12-action-plan-and-implementation-roadmap.md) - Execution guide
 - [00-research-plan.md](00-research-plan.md) - Original research plan
-- [NDEX.md](INDEX.md) - Complete documentation index
+- [INDEX.md](README.md) - Complete documentation index

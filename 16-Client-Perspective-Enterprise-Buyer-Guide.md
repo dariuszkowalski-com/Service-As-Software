@@ -8,7 +8,7 @@ language: "en"
 
 # 16 - Client Perspective: Enterprise Buyer Guide
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 - [The AI Regulation Landscape for 2026 - JDSupra](https://www.jdsupra.com/legalnews/the-ai-regulation-landscape-for-2026-7255123/)
@@ -1999,12 +1999,12 @@ Governance Framework:
 
 ## Next Steps
 
-- [[INDEX.md](INDEX.md) - Complete documentation index
-- [[01-Common-Information-and-Model-Overview]](01-common-information-and-model-overview.md) - Understanding Service-As-Software fundamentals
-- [[13-CIO-CTO-Technical-Perspective-and-SDLC]](13-cio-cto-technical-perspective-and-sdlc.md) - Technical implementation details
-- [[14-Legal-and-Regulatory-Perspective-Service-As-Software]](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Legal and regulatory requirements
-- [[15-Data-Analytics-ML-Perspective-Service-As-Software]](15-Data-Analytics-ML-Perspective-Service-As-Software.md) - Data and analytics perspective
-- [[12-Action-Plan-and-Implementation-Roadmap]](12-action-plan-and-implementation-roadmap.md) - Implementation roadmap for providers
+- [INDEX.md](README.md) - Complete documentation index
+- [01-Common-Information-and-Model-Overview](01-common-information-and-model-overview.md) - Understanding Service-As-Software fundamentals
+- [13-CIO-CTO-Technical-Perspective-and-SDLC](13-cio-cto-technical-perspective-and-sdlc.md) - Technical implementation details
+- [14-Legal-and-Regulatory-Perspective-Service-As-Software](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Legal and regulatory requirements
+- [15-Data-Analytics-ML-Perspective-Service-As-Software](15-Data-Analytics-ML-Perspective-Service-As-Software.md) - Data and analytics perspective
+- [12-Action-Plan-and-Implementation-Roadmap](12-action-plan-and-implementation-roadmap.md) - Implementation roadmap for providers
 
 ---
 

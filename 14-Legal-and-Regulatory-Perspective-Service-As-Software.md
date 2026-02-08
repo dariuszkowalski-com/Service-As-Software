@@ -9,7 +9,7 @@ language: "en"
 
 # 14 - Legal and Regulatory Perspective: Service-As-Software
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 
@@ -1376,7 +1376,7 @@ The Service-As-Software model represents a fundamental shift in how technology c
 
 ## Next Steps
 
-- [[INDEX.md](INDEX.md) - Complete documentation index
-- [[01-common-information-and-model-overview.md](01-common-information-and-model-overview.md) - Model overview
-- [[02-what-is-service-as-software-and-how-it-works.md](02-what-is-service-as-software-and-how-it-works.md) - How SaS works
-- [[13-cio-cto-technical-perspective-and-sdlc.md](13-cio-cto-technical-perspective-and-sdlc.md) - CIO/CTO technical perspective
+- [INDEX.md](README.md) - Complete documentation index
+- [01-common-information-and-model-overview.md](01-common-information-and-model-overview.md) - Model overview
+- [02-what-is-service-as-software-and-how-it-works.md](02-what-is-service-as-software-and-how-it-works.md) - How SaS works
+- [13-cio-cto-technical-perspective-and-sdlc.md](13-cio-cto-technical-perspective-and-sdlc.md) - CIO/CTO technical perspective

@@ -8,7 +8,7 @@ language: "en"
 
 # 02 - What is Service-As-Software and How It Works
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## How Service-As-Software Works
 
@@ -58,7 +58,7 @@ The economic model is fundamentally different from traditional SaaS:
 
 Service-as-Software systems often have little or no traditional UI:
 
-> "SaS products have minimal UI. The software runs in the background, often with AI agents performing work autonomously. The user may never even see the software; they simply receive completed work." — [https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents](Thoughtworks: Service-as-software: A new economic model for age of AI agents)
+> "SaS products have minimal UI. The software runs in the background, often with AI agents performing work autonomously. The user may never even see the software; they simply receive completed work." — [Thoughtworks: Service-as-software: A new economic model for age of AI agents](https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents)
 
 **What users experience:**
 - Dashboard showing completed work and metrics
@@ -168,7 +168,7 @@ Service-as-Software systems include built-in quality controls:
 
 A critical component of Service-as-Software is the trust layer:
 
-> "SaS is built on a foundation of trust. The software must be reliable, secure and compliant. This requires robust monitoring, validation, and human oversight." — [https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents](Thoughtworks: Service-as-software: A new economic model for age of AI agents)
+> "SaS is built on a foundation of trust. The software must be reliable, secure and compliant. This requires robust monitoring, validation, and human oversight." — [Thoughtworks: Service-as-software: A new economic model for age of AI agents](https://www.thoughtworks.com/en-us/insights/blog/generative-ai/service-as-software-a-new-economic-model-for-age-of-ai-agents)
 
 **Trust mechanisms include:**
 - **Explainability**: Ability to trace agent decisions
@@ -206,7 +206,7 @@ A critical component of Service-as-Software is the trust layer:
 - **Colorado AI Act (effective February 2026)**: Risk management policies; impact assessments; consumer notifications for consequential decisions; algorithmic discrimination disclosure
 
 **See Also:**
-- [[14-Legal-and-Regulatory-Perspective-Service-As-Software]] - Comprehensive legal and regulatory analysis
+- [14-Legal-and-Regulatory-Perspective-Service-As-Software](14-Legal-and-Regulatory-Perspective-Service-As-Software.md) - Comprehensive legal and regulatory analysis
 ### Comparison with Traditional Service Models
 
 | Aspect | Professional Services | SaaS | Service-as-Software |
@@ -266,6 +266,6 @@ A critical component of Service-as-Software is the trust layer:
 
 ## Next Steps
 
-- [[03-Competitive-Advantages-and-Benefits]] - Why this model creates competitive advantage
-- [[04-Market-Predictions-and-Forecasts]] - Market size and growth projections
-- [[05-Industry-Segments-and-Use-Cases]] - Where this model applies
+- [03-Competitive-Advantages-and-Benefits](03-Competitive-Advantages-and-Benefits.md) - Why this model creates competitive advantage
+- [04-Market-Predictions-and-Forecasts](04-Market-Predictions-and-Forecasts.md) - Market size and growth projections
+- [05-Industry-Segments-and-Use-Cases](05-Industry-Segments-and-Use-Cases.md) - Where this model applies

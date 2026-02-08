@@ -8,7 +8,7 @@ language: "en"
 
 # 09 - What We Still Don't Know
 
-> **Research Sources:** See [Research Appendix in INDEX.md](INDEX.md#research-appendix-sources) for complete bibliography.
+> **Research Sources:** See [Research Appendix in README.md](README.md#research-appendix-sources) for complete bibliography.
 
 ## Overview
 
@@ -527,6 +527,6 @@ Will incumbent SaaS companies adapt or be disrupted?
 
 ## Next Steps
 
-- [[10-Hidden-Insights-and-Non-Obvious-Factors]] - Deep insights
-- [[11-Recommendations-for-Entrepreneurs]] - Practical advice
-- [[12-Action-Plan-and-Implementation-Roadmap]] - Execution guide
+- [10-Hidden-Insights-and-Non-Obvious-Factors](10-Hidden-Insights-and-Non-Obvious-Factors.md) - Deep insights
+- [11-Recommendations-for-Entrepreneurs](11-Recommendations-for-Entrepreneurs.md) - Practical advice
+- [12-Action-Plan-and-Implementation-Roadmap](12-Action-Plan-and-Implementation-Roadmap.md) - Execution guide
